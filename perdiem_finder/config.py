@@ -39,6 +39,7 @@ class Config:
     pages: list[dict]
     google_jobs: dict
     check_directly: list[Link]
+    site: dict = field(default_factory=dict)
 
 
 def _settings(raw: dict) -> Settings:
@@ -112,4 +113,5 @@ def load(path: str | Path) -> Config:
         pages=pages,
         google_jobs=dict(raw.get("google_jobs") or {}),
         check_directly=links,
+        site=dict(raw.get("site") or {}),
     )

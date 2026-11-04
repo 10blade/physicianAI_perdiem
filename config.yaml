@@ -8,6 +8,12 @@ settings:
   include_pay_unlisted: true # also list flexible physician roles whose posting gives no rate
   include_salaried: false    # also list salaried (annual pay) physician roles at AI companies
 
+# The shareable web page (docs/index.html), published with GitHub Pages.
+site:
+  title: Physician AI Per Diem
+  url: https://10blade.github.io/physicianAI_perdiem/
+  repo: https://github.com/10blade/physicianAI_perdiem
+
 # Optional: Google Jobs (collects LinkedIn, Indeed, ZipRecruiter, ...) through SerpApi.
 # Runs only when the repository has a SERPAPI_KEY secret. Each query uses one search per day.
 google_jobs:

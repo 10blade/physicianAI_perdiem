@@ -2,6 +2,7 @@
 
 This repository searches for per diem, contract and part-time work that physicians can do for AI companies, paying **$100/hr or more**. The work can be clinical or research: training and evaluating medical AI, reviewing AI answers for clinical accuracy, or clinical care on AI-first services.
 
+- **🌐 Shareable web page: <https://10blade.github.io/physicianAI_perdiem/>.** Filter by specialty and minimum rate on any phone or computer, and send the link to colleagues. It is rebuilt with every daily run.
 - **📋 Today's list: [results/latest.md](results/latest.md).** A GitHub Action refreshes it every morning.
 - **📌 Researched snapshot: [OPPORTUNITIES.md](OPPORTUNITIES.md)**, gathered on 4 Nov 2026. It has 36 physician listings whose advertised pay reaches $100–$300/hr, from Turing, Mercor, micro1, Handshake AI, OpenTrain, AfterQuery, Glass Health, Counsel Health and others.
 
@@ -27,6 +28,7 @@ New postings are marked 🆕. Any morning that brings a new match also opens a *
 1. Open the **Actions** tab and enable workflows if GitHub asks.
 2. Optional: create a free SerpApi key. Add it under **Settings → Secrets and variables → Actions → New repository secret**, named `SERPAPI_KEY`. The three daily queries in `config.yaml` stay within a small monthly plan.
 3. Go to **Actions → Daily search → Run workflow** to get the first list now instead of waiting for the next morning.
+4. Make sure the web page is switched on: **Settings → Pages → Build and deployment**. The source should be *Deploy from a branch*, with branch `main` and folder `/docs`. The page lives in [`docs/index.html`](docs/index.html).
 
 ## Change what it looks for
 
@@ -58,7 +60,11 @@ python -m perdiem_finder probe "Hippocratic AI, Abridge"
 python -m perdiem_finder pay "Compensation: \$175 - \$200 / Hourly"
 ```
 
-Results go to `results/` and include `latest.md`, `latest.csv` (opens in Excel), `latest.json` and `sources.md`. To run the tests:
+```bash
+python -m perdiem_finder site
+```
+
+Results go to `results/` and include `latest.md`, `latest.csv` (opens in Excel), `latest.json` and `sources.md`. The web page goes to `docs/index.html`. The `site` command rebuilds the page from the last results without searching again. To run the tests:
 
 ```bash
 pip install -r requirements-dev.txt && python -m pytest

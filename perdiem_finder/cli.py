@@ -10,6 +10,7 @@ from pathlib import Path
 
 from . import config, detect, matching, report, state
 from . import pay as pay_mod
+from . import site as site_mod
 from .http import Http
 from .search import search
 from .util import norm
@@ -58,6 +59,9 @@ def cmd_search(args: argparse.Namespace) -> int:
     if not result.partial:
         state.update_seen(reported, data_dir / "seen.json", now.date())
     counts = report.write_all(result, cfg, out_dir, now)
+    if args.site and not result.partial:
+        page = site_mod.write(site_mod.load_payload(out_dir / "latest.json"), cfg, Path(args.site))
+        _log(f"Web page: {page}")
 
     bar = f"${cfg.settings.min_hourly:,.0f}"
     _log(
@@ -95,6 +99,17 @@ def cmd_probe(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_site(args: argparse.Namespace) -> int:
+    cfg = config.load(args.config)
+    payload = site_mod.load_payload(Path(args.results))
+    page = site_mod.write(payload, cfg, Path(args.out))
+    print(f"Wrote {page}")
+    if args.fragment:
+        Path(args.fragment).write_text(site_mod.render(payload, cfg, standalone=False), encoding="utf-8")
+        print(f"Wrote {args.fragment} (page body only, for hosts that supply their own <html> wrapper)")
+    return 0
+
+
 def cmd_pay(args: argparse.Namespace) -> int:
     pays = pay_mod.parse_text(args.text, require_currency=not args.loose)
     if not pays:
@@ -120,7 +135,15 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("--min-hourly", type=float, help="override settings.min_hourly_usd")
     s.add_argument("--only", help="comma-separated company or page names to search (for testing)")
     s.add_argument("--no-google", action="store_true", help="skip the Google Jobs search")
+    s.add_argument("--site", default="docs", help="folder for the shareable web page (default: docs; '' to skip)")
     s.set_defaults(func=cmd_search)
+
+    w = sub.add_parser("site", help="rebuild the web page from the last results, without searching")
+    w.add_argument("--config", default="config.yaml")
+    w.add_argument("--results", default="results/latest.json")
+    w.add_argument("--out", default="docs", help="folder for index.html (default: docs)")
+    w.add_argument("--fragment", help="also write the page without its <html> wrapper to this file")
+    w.set_defaults(func=cmd_site)
 
     p = sub.add_parser("probe", help="find which public job board a company uses")
     p.add_argument("names", nargs="+", help='company names, e.g. "Hippocratic AI" or "Abridge, Suki"')
