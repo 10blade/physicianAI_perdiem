@@ -406,7 +406,11 @@ def render(payload: dict, cfg: Config, standalone: bool = True) -> str:
 
     parts = []
     parts.append('<div class="wrap"><header class="top">')
-    parts.append(f'<p class="eyebrow">Updated {updated:%b} {updated.day}, {updated.year} · refreshed every morning</p>')
+    stamp = f"{updated:%b} {updated.day}, {updated.year}"
+    if standalone:
+        parts.append(f'<p class="eyebrow">Updated {stamp} · refreshed every morning</p>')
+    else:  # a copy published elsewhere does not update itself
+        parts.append(f'<p class="eyebrow">Snapshot of {stamp} · a new list is built every morning</p>')
     parts.append(f"<h1>{esc(title)}</h1>")
     parts.append(
         '<p class="lede">Paid, flexible work for physicians at AI companies: evaluating medical AI, writing '
@@ -418,7 +422,7 @@ def render(payload: dict, cfg: Config, standalone: bool = True) -> str:
         f"<li><strong>{_money(top_rate)}/hr</strong>top posted rate</li>"
         f"<li><strong>{new_count}</strong>new since the last update</li></ul>"
     )
-    if page_url:
+    if page_url and standalone:
         parts.append(
             f'<div class="share"><button type="button" class="btn" id="share" data-url="{esc(page_url)}">Share this list</button>'
             f'<span id="share-status" role="status"></span>'
