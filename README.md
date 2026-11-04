@@ -8,7 +8,8 @@ This repository searches for per diem, contract and part-time work that physicia
 ## What it searches
 
 1. **Company job boards.** The public job-board APIs (Greenhouse, Ashby, Lever, Workable, SmartRecruiters, Recruitee) of about 50 AI labs, AI-training platforms and health-AI companies. The full list is in [`config.yaml`](config.yaml).
-2. **Careers pages without an API**, such as Turing, OpenTrain, micro1, Handshake AI, Mercor and 24-MAG. These are read on a best-effort basis, and robots.txt is respected.
+2. **Careers pages without an API**: Turing, OpenTrain AI and 24-MAG. These are read on a best-effort basis, and robots.txt is respected.
+   - Mercor, micro1 and Handshake AI can't be read automatically, because their pages need JavaScript or ask robots to stay out. Every report links to them so you can check by hand.
 3. **Google Jobs (optional).** This reaches listings on LinkedIn, Indeed and ZipRecruiter, where many Mercor and micro1 roles appear. It needs a free [SerpApi](https://serpapi.com) key.
 
 ## How a posting makes the list

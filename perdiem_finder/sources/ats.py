@@ -118,14 +118,6 @@ class Greenhouse(Board):
         return job.structured_pay is not None
 
 
-class GreenhouseEU(Greenhouse):
-    """Greenhouse boards hosted in the EU (job-boards.eu.greenhouse.io)."""
-
-    ats = "greenhouse_eu"
-    api_root = "https://boards-api.eu.greenhouse.io/v1/boards"
-    site_root = "https://job-boards.eu.greenhouse.io"
-
-
 class Ashby(Board):
     """https://developers.ashbyhq.com/docs/public-job-posting-api"""
 
@@ -412,9 +404,9 @@ class SmartRecruiters(Board):
         return bool(job.description)
 
 
+# One Greenhouse API serves boards hosted in the US and the EU (job-boards.eu.greenhouse.io).
 BOARDS: dict[str, Board] = {
-    b.ats: b
-    for b in (Greenhouse(), GreenhouseEU(), Ashby(), Lever(), LeverEU(), Workable(), Recruitee(), SmartRecruiters())
+    b.ats: b for b in (Greenhouse(), Ashby(), Lever(), LeverEU(), Workable(), Recruitee(), SmartRecruiters())
 }
 # Order tried when a company's board is detected automatically.
-DETECT_ORDER = ("greenhouse", "ashby", "lever", "workable", "smartrecruiters", "recruitee", "greenhouse_eu", "lever_eu")
+DETECT_ORDER = ("greenhouse", "ashby", "lever", "workable", "smartrecruiters", "recruitee", "lever_eu")

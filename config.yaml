@@ -19,23 +19,23 @@ google_jobs:
     - medical doctor AI expert part time
 
 # Companies whose public job board is searched every day.
-#   board: "<type>:<slug>"  - pins the board. Types: greenhouse, greenhouse_eu, ashby,
-#                             lever, lever_eu, workable, smartrecruiters, recruitee
+#   board: "<type>:<slug>"  - pins the board. Types: greenhouse, ashby, lever, lever_eu,
+#                             workable, smartrecruiters, recruitee
 #   no board                - the tool looks for one by name (cached in data/boards.json)
 # Add any company by name; run the "Daily search" workflow with "probe" to test a name first.
 companies:
   # --- AI training-data and expert platforms ---------------------------------------------
   - name: Prolific
-    board: greenhouse_eu:prolificacademicltd
+    board: greenhouse:prolificacademicltd
     category: AI expert platform
-    note: US doctors, AI training tasks, $80-$150/hr per task in 2026 postings
+    note: expert-network board (4,000+ postings); US doctors, AI training tasks, $80-$150/hr per task in 2026
   - name: Invisible / Meridial
     board: greenhouse:agency
     category: AI expert platform
     note: the "agency" board carries freelance AI-trainer projects listed under both Invisible and Meridial
   - name: Alignerr
-    board: greenhouse:alignerr
     category: AI expert platform
+    note: its old Greenhouse board (alignerr) was removed in Nov 2026; physician pay seen was $25-$50/hr
   - name: Scale AI
     board: greenhouse:scaleai
     category: AI expert platform
@@ -45,8 +45,6 @@ companies:
     category: AI expert platform
     note: runs Mindrift
   - name: Mercor
-    category: AI expert platform
-  - name: micro1
     category: AI expert platform
   - name: Handshake
     category: AI expert platform
@@ -80,9 +78,6 @@ companies:
     category: AI lab
   - name: Anthropic
     board: greenhouse:anthropic
-    category: AI lab
-  - name: Google DeepMind
-    board: greenhouse:deepmind
     category: AI lab
 
   # --- Health-AI companies -------------------------------------------------------------------
@@ -158,6 +153,8 @@ companies:
 
 # Careers pages with no public job API, read on a best-effort basis (robots.txt is respected).
 # A page that builds its list with JavaScript shows "no job links found"; check it by hand.
+# Not listed because they cannot be read automatically (Nov 2026): Mercor and Handshake AI
+# (JavaScript-only pages) and micro1 (its robots.txt asks crawlers to stay out).
 pages:
   - name: Turing (careers page)
     url: https://turing.betterteam.com/
@@ -168,15 +165,6 @@ pages:
   - name: 24-MAG (careers page)
     url: https://www.careers-page.com/24-mag
     category: Recruiter
-  - name: micro1 (job board)
-    url: https://jobs.micro1.ai/
-    category: AI expert platform
-  - name: Handshake AI (opportunities)
-    url: https://joinhandshake.com/ai/opportunities/
-    category: AI expert platform
-  - name: Mercor (explore page)
-    url: https://work.mercor.com/explore
-    category: AI expert platform
 
 # Shown at the end of every report: platforms to check by hand.
 check_directly:

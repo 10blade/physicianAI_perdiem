@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from datetime import date
@@ -143,12 +144,34 @@ def _is_secondary(job: Job) -> bool:
     return job.source == "google_jobs" or job.source.startswith("page:")
 
 
+# The last " - segment" or "(segment)" of a title.
+_SUFFIX_RE = re.compile(r"^(?P<base>.+?)\s*(?:\s[-–—|:]\s*(?P<dash>[^-–—|:()]+)|\((?P<paren>[^()]+)\))\s*$")
+_PLACE_WORDS = {
+    "remote", "us", "usa", "uk", "united", "states", "kingdom", "canada", "worldwide", "global", "anywhere",
+    "est", "pst", "cst", "mst", "et", "pt", "ct", "mt", "time", "timezone", "zone", "hybrid", "onsite",
+}
+_MAX_LOCATION = 300
+
+
+def _strip_place(title: str, location: str) -> str:
+    """ "Doctors - AI Training - Houston" -> "Doctors - AI Training" when the job is in Houston."""
+    m = _SUFFIX_RE.match(title or "")
+    if not m:
+        return title
+    words = re.findall(r"[a-z]+", (m.group("dash") or m.group("paren") or "").lower())
+    place = (location or "").lower()
+    if words and all(len(w) <= 2 or w in _PLACE_WORDS or w in place for w in words):
+        return m.group("base").strip()
+    return title
+
+
 def dedupe(jobs: list[Job]) -> list[Job]:
     """Drop repeats.
 
     A Google Jobs or careers-page result is dropped when a job-board API returned
     the same company and title. A board that lists one role in several
-    locations is shown once, with the locations combined.
+    locations ("Doctors - AI Training - Houston", "... - Miami") is shown once,
+    with the locations combined.
     """
     primary = {(norm(j.company), norm(j.title)) for j in jobs if not _is_secondary(j)}
     out: list[Job] = []
@@ -162,10 +185,12 @@ def dedupe(jobs: list[Job]) -> list[Job]:
             secondary_seen.add(key)
             out.append(job)
             continue
-        merge_key = (job.source, key, job.pay.label() if job.pay else "", job.status)
+        base_title = _strip_place(job.title, job.location)
+        merge_key = (job.source, norm(job.company), norm(base_title), job.pay.label() if job.pay else "", job.status)
         kept = merged.get(merge_key)
         if kept is not None:
-            if job.location and job.location not in kept.location:
+            kept.title = _strip_place(kept.title, kept.location)
+            if job.location and job.location not in kept.location and len(kept.location) < _MAX_LOCATION:
                 kept.location = f"{kept.location} / {job.location}" if kept.location else job.location
             continue
         merged[merge_key] = job

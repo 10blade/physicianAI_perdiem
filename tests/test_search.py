@@ -138,3 +138,30 @@ def test_api_keys_never_leak():
     message = str(HttpError(401, "https://serpapi.com/search.json?q=x&api_key=SECRET123"))
     assert "SECRET123" not in message
     assert "SECRET123" not in redact("failed: https://serpapi.com/search.json?api_key=SECRET123&q=1")
+
+
+def test_city_variants_of_one_role_are_merged():
+    from perdiem_finder.models import Job, Pay
+    from perdiem_finder.search import dedupe
+
+    def posting(title, location, low=80):
+        job = Job(source="greenhouse:p", company="Prolific", title=title, url=f"https://x/{location}",
+                  job_id=location, location=location)
+        job.pay, job.status = Pay(low, 150, "hour"), "qualified"
+        return job
+
+    out = dedupe([
+        posting("Doctors - AI Training - Houston", "Houston, Texas, United States"),
+        posting("Doctors - AI Training - Miami", "Miami, Florida, United States"),
+        posting("Doctors - AI Training (Remote, US)", "United States"),
+        posting("Doctors - AI Training - Boston", "Boston", low=60),  # different pay: kept apart
+        posting("Physician - Emergency Medicine", "Remote"),  # a specialty, not a place
+        posting("Physician - Emergency Medicine", "Remote"),
+    ])
+    assert [j.title for j in out] == [
+        "Doctors - AI Training",
+        "Doctors - AI Training - Boston",
+        "Physician - Emergency Medicine",
+    ]
+    # "United States" is already part of the combined location, so it is not repeated.
+    assert out[0].location == "Houston, Texas, United States / Miami, Florida, United States"
