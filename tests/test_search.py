@@ -144,24 +144,78 @@ def test_city_variants_of_one_role_are_merged():
     from perdiem_finder.models import Job, Pay
     from perdiem_finder.search import dedupe
 
-    def posting(title, location, low=80):
-        job = Job(source="greenhouse:p", company="Prolific", title=title, url=f"https://x/{location}",
-                  job_id=location, location=location)
+    def posting(job_id, title, location, low=80):
+        job = Job(source="greenhouse:p", company="Prolific", title=title, url=f"https://x/{job_id}",
+                  job_id=job_id, location=location)
         job.pay, job.status = Pay(low, 150, "hour"), "qualified"
         return job
 
     out = dedupe([
-        posting("Doctors - AI Training - Houston", "Houston, Texas, United States"),
-        posting("Doctors - AI Training - Miami", "Miami, Florida, United States"),
-        posting("Doctors - AI Training (Remote, US)", "United States"),
-        posting("Doctors - AI Training - Boston", "Boston", low=60),  # different pay: kept apart
-        posting("Physician - Emergency Medicine", "Remote"),  # a specialty, not a place
-        posting("Physician - Emergency Medicine", "Remote"),
+        posting("1", "Doctors - AI Training - Houston", "Houston, Texas, United States"),
+        posting("2", "Doctors - AI Training - Miami", "Miami, Florida, United States"),
+        posting("3", "Doctors - AI Training (Remote, US)", "United States"),
+        posting("4", "Doctors - AI Training - Boston", "Boston", low=60),  # different pay: kept apart
+        posting("5", "Physician - Emergency Medicine", "Remote"),  # a specialty, not a place
+        posting("6", "Physician - Emergency Medicine", "Remote"),
     ])
-    assert [j.title for j in out] == [
-        "Doctors - AI Training",
-        "Doctors - AI Training - Boston",
-        "Physician - Emergency Medicine",
-    ]
+    titles = sorted(j.title for j in out)
+    assert titles == ["Doctors - AI Training", "Doctors - AI Training - Boston", "Physician - Emergency Medicine"]
+    training = next(j for j in out if j.title == "Doctors - AI Training")
+    assert training.listings == 3 and training.job_id == "1"
     # "United States" is already part of the combined location, so it is not repeated.
-    assert out[0].location == "Houston, Texas, United States / Miami, Florida, United States"
+    assert training.location == "Houston, Texas, United States / Miami, Florida, United States"
+
+
+def test_one_program_posted_under_many_role_names_is_one_row():
+    from perdiem_finder.models import Job, Pay
+    from perdiem_finder.search import dedupe
+
+    def posting(job_id, title, low=130):
+        job = Job(source="greenhouse:p", company="Prolific", title=title, url=f"https://x/{job_id}",
+                  job_id=job_id, location="United States")
+        job.pay, job.status = Pay(low, None, "hour"), "qualified"
+        return job
+
+    program = "AI Research Participants - United States (Remote)"
+    out = dedupe([
+        posting("11", f"Cardiologist - {program}"),
+        posting("12", f"Dermatologist - {program}"),
+        posting("13", f"Hospitalist - {program}"),
+        posting("14", f"Radiologist - {program}", low=90),  # different pay: its own row
+        posting("15", "Ophthalmologists (Freelance - Remote) - Brasília, Brazil"),
+        posting("16", "Ophthalmologists (Freelance - Remote) - Brazil"),
+    ])
+    titles = sorted(j.title for j in out)
+    assert titles == [
+        f"{program} — 3 roles incl. Cardiologist, Dermatologist, Hospitalist",
+        "Ophthalmologists (Freelance - Remote)",
+        f"Radiologist - {program}",
+    ]
+    assert next(j for j in out if j.title.startswith(program)).listings == 3
+
+
+def test_one_role_posted_per_city_with_remote_location_is_merged():
+    from perdiem_finder.models import Job, Pay
+    from perdiem_finder.search import dedupe
+
+    def posting(job_id, title):
+        job = Job(source="greenhouse:p", company="Prolific", title=title, url=f"https://x/{job_id}",
+                  job_id=job_id, location="Remote")
+        job.pay, job.status = Pay(48, 200, "hour"), "qualified"
+        return job
+
+    out = dedupe([
+        posting("103", "Cardiologists (Freelance - Remote) - Belfast, UK"),
+        posting("101", "Cardiologists (Freelance - Remote) - Albuquerque, US"),
+        posting("102", "Cardiologists (Freelance - Remote) - Colorado Springs, US"),
+        posting("104", "Dermatologists (Freelance - Remote) - Austin, US"),
+        posting("105", "Physician - Internal Medicine, Cardiology"),  # specialties, not a place
+    ])
+    by_title = {j.title: j for j in out}
+    assert set(by_title) == {
+        "Cardiologists (Freelance - Remote)",
+        "Dermatologists (Freelance - Remote) - Austin, US",
+        "Physician - Internal Medicine, Cardiology",
+    }
+    cardio = by_title["Cardiologists (Freelance - Remote)"]
+    assert cardio.listings == 3 and cardio.job_id == "101"  # the oldest posting is kept

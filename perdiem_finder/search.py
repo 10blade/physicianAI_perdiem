@@ -149,20 +149,80 @@ _SUFFIX_RE = re.compile(r"^(?P<base>.+?)\s*(?:\s[-–—|:]\s*(?P<dash>[^-–—
 _PLACE_WORDS = {
     "remote", "us", "usa", "uk", "united", "states", "kingdom", "canada", "worldwide", "global", "anywhere",
     "est", "pst", "cst", "mst", "et", "pt", "ct", "mt", "time", "timezone", "zone", "hybrid", "onsite",
+    "europe", "emea", "latam", "apac", "brazil", "mexico", "spain", "portugal", "france", "germany", "italy",
+    "ireland", "netherlands", "belgium", "switzerland", "austria", "poland", "sweden", "norway", "denmark",
+    "finland", "india", "japan", "korea", "singapore", "philippines", "australia", "zealand", "argentina",
+    "chile", "colombia", "israel", "egypt", "nigeria", "kenya", "africa", "south", "new",
 }
 _MAX_LOCATION = 300
+_ROLE_SPLIT_RE = re.compile(r"\s[-–—|]\s")
+
+# "Albuquerque, US", "Belfast, UK", "Brasília, Brazil", "Colorado Springs, United States"
+_PLACE_PART = r"[^\W\d_](?:[^\W\d_]|[.'’ -])*"
+_CITY_REGION_RE = re.compile(rf"^{_PLACE_PART},\s*{_PLACE_PART}$")
 
 
 def _strip_place(title: str, location: str) -> str:
-    """ "Doctors - AI Training - Houston" -> "Doctors - AI Training" when the job is in Houston."""
+    """Drop a trailing place from a title.
+
+    "Doctors - AI Training - Houston" -> "Doctors - AI Training" when the job is
+    in Houston, and "Cardiologists (Freelance) - Austin, US" -> "Cardiologists
+    (Freelance)". Specialties ("Physician - Emergency Medicine") are kept.
+    """
     m = _SUFFIX_RE.match(title or "")
     if not m:
         return title
-    words = re.findall(r"[a-z]+", (m.group("dash") or m.group("paren") or "").lower())
+    segment = (m.group("dash") or m.group("paren") or "").strip()
+    words = re.findall(r"[a-z]+", segment.lower())
     place = (location or "").lower()
     if words and all(len(w) <= 2 or w in _PLACE_WORDS or w in place for w in words):
         return m.group("base").strip()
+    if (
+        _CITY_REGION_RE.match(segment)
+        and all(part.strip()[:1].isupper() for part in segment.split(","))
+        and matching.title_score(segment)[0] == 0
+    ):
+        return m.group("base").strip()
     return title
+
+
+def _program(title: str) -> tuple[str, str] | None:
+    """("Cardiologist", "AI Research Participants - United States (Remote)") from
+    "Cardiologist - AI Research Participants - United States (Remote)"."""
+    parts = _ROLE_SPLIT_RE.split(title or "", maxsplit=1)
+    if len(parts) == 2 and len(parts[1].split()) >= 2:
+        return parts[0].strip(), parts[1].strip()
+    return None
+
+
+def _merge_programs(jobs: list[Job]) -> list[Job]:
+    """Collapse one program posted under many role names into one row.
+
+    Boards such as Prolific's post "Cardiologist - AI Research Participants",
+    "Dermatologist - AI Research Participants", ... (dozens of titles, same
+    pay). Three or more postings from one board with the same program name,
+    pay and status become a single row that names a few of the roles.
+    """
+    groups: dict[tuple, list[Job]] = {}
+    for job in jobs:
+        program = None if _is_secondary(job) else _program(job.title)
+        if program:
+            key = (job.source, norm(job.company), norm(program[1]), job.pay.label() if job.pay else "", job.status)
+            groups.setdefault(key, []).append(job)
+    dropped: set[int] = set()
+    for members in groups.values():
+        if len(members) < 3:
+            continue
+        keep, rest = members[0], members[1:]
+        heads = [_program(m.title)[0] for m in members]
+        program = _program(keep.title)[1]
+        keep.title = f"{program} — {len(members)} roles incl. {', '.join(heads[:3])}"
+        for other in rest:
+            keep.listings += other.listings
+            if other.location and other.location not in keep.location and len(keep.location) < _MAX_LOCATION:
+                keep.location = f"{keep.location} / {other.location}" if keep.location else other.location
+            dropped.add(id(other))
+    return [j for j in jobs if id(j) not in dropped]
 
 
 def dedupe(jobs: list[Job]) -> list[Job]:
@@ -177,6 +237,8 @@ def dedupe(jobs: list[Job]) -> list[Job]:
     out: list[Job] = []
     secondary_seen: set = set()
     merged: dict = {}
+    # Keep the oldest posting of a merged group, so its "new" marker stays stable between runs.
+    jobs = sorted(jobs, key=lambda j: (j.source, len(j.job_id), j.job_id))
     for job in jobs:
         key = (norm(job.company), norm(job.title))
         if _is_secondary(job):
@@ -190,12 +252,13 @@ def dedupe(jobs: list[Job]) -> list[Job]:
         kept = merged.get(merge_key)
         if kept is not None:
             kept.title = _strip_place(kept.title, kept.location)
+            kept.listings += 1
             if job.location and job.location not in kept.location and len(kept.location) < _MAX_LOCATION:
                 kept.location = f"{kept.location} / {job.location}" if kept.location else job.location
             continue
         merged[merge_key] = job
         out.append(job)
-    return out
+    return _merge_programs(out)
 
 
 def search(

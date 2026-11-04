@@ -68,6 +68,7 @@ class Job:
     category: str = ""
     requires_ai_context: bool = False  # broad searches must mention AI work
     via: str = ""
+    listings: int = 1  # postings merged into this row (one role posted per city)
 
     # Filled in by matching.classify()
     pay: Optional[Pay] = None
@@ -99,6 +100,7 @@ class Job:
             "pay_quote": pay.raw if pay else "",
             "employment_type": self.employment_type,
             "location": self.location,
+            "listings": self.listings,
             "remote": self.remote,
             "posted": self.posted,
             "first_seen": self.first_seen,

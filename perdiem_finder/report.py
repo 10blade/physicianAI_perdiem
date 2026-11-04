@@ -36,7 +36,10 @@ def _kind(job: Job) -> str:
 
 
 def _location(job: Job) -> str:
-    return job.location or ("Remote" if job.remote else "")
+    where = job.location or ("Remote" if job.remote else "")
+    if job.listings > 1:
+        return f"{job.listings} listings · {where}" if where else f"{job.listings} listings"
+    return where
 
 
 def _table(jobs: list[Job], with_pay: bool) -> list[str]:
@@ -190,7 +193,7 @@ def write_all(result: SearchResult, cfg: Config, out_dir: Path, now: datetime) -
 
     fields = [
         "status", "new", "company", "title", "pay", "pay_min_hourly", "pay_max_hourly", "pay_basis",
-        "employment_type", "location", "remote", "posted", "first_seen", "url", "category", "source", "pay_quote",
+        "employment_type", "location", "listings", "remote", "posted", "first_seen", "url", "category", "source", "pay_quote",
     ]
     with (out_dir / "latest.csv").open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields, extrasaction="ignore")
