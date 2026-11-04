@@ -5,6 +5,8 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Optional
 
+from .util import norm
+
 BASIS_ADJECTIVE = {"day": "daily", "week": "weekly", "month": "monthly", "year": "annual"}
 
 
@@ -84,6 +86,11 @@ class Job:
 
     @property
     def key(self) -> str:
+        """Identity used to spot new postings between runs."""
+        if self.source.startswith("page:"):
+            # Careers pages often repeat one role under several URLs (".../cardiologist-29",
+            # ".../cardiologist-30"), so the company and title identify it, not the URL.
+            return f"{self.source}:{norm(self.company)}:{norm(self.title)}"
         return f"{self.source}:{self.job_id}"
 
     def to_dict(self) -> dict:

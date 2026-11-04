@@ -219,3 +219,19 @@ def test_one_role_posted_per_city_with_remote_location_is_merged():
     }
     cardio = by_title["Cardiologists (Freelance - Remote)"]
     assert cardio.listings == 3 and cardio.job_id == "101"  # the oldest posting is kept
+
+
+def test_careers_page_roles_keep_their_identity_across_urls(tmp_path):
+    from perdiem_finder.models import Job
+
+    def turing(url):
+        job = Job(source="page:turing.betterteam.com", company="Turing", title="Cardiologist", url=url, job_id=url)
+        job.status = "qualified"
+        return job
+
+    seen = tmp_path / "seen.json"
+    first = turing("https://turing.betterteam.com/cardiologist-30")
+    state.update_seen([first], seen, date(2026, 11, 4))
+    second = turing("https://turing.betterteam.com/cardiologist-29")  # same role, another URL
+    state.update_seen([second], seen, date(2026, 11, 5))
+    assert first.is_new and not second.is_new and second.first_seen == "2026-11-04"
