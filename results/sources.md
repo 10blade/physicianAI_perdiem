@@ -1,6 +1,6 @@
 # Sources searched
 
-Run of 2026-11-04 13:06 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
+Run of 2026-11-04 13:10 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
 
 | Source | Board or page | Status | Postings | Matches | Note |
 |---|---|---|---|---|---|
@@ -8,7 +8,7 @@ Run of 2026-11-04 13:06 UTC. "Matches" counts physician postings that made the r
 | Abridge | ashby:abridge | ✅ ok | 37 | 0 | auto-detected |
 | AfterQuery | ashby:afterquery | ✅ ok | 39 | 0 | auto-detected |
 | Akido Labs | greenhouse:akidolabs | ✅ ok | 26 | 0 | auto-detected |
-| Alignerr | — | ➖ no public board | 0 | 0 | no public job board found |
+| Alignerr | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | Ambience Healthcare | ashby:ambiencehealthcare | ✅ ok | 20 | 0 | auto-detected |
 | Anthropic | greenhouse:anthropic | ✅ ok | 682 | 0 |  |
 | Atropos Health | ashby:atroposhealth | ✅ ok | 1 | 0 | auto-detected |
