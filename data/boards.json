@@ -1,0 +1,162 @@
+{
+  "Abridge": {
+    "board": "ashby:abridge",
+    "checked": "2026-11-04"
+  },
+  "AfterQuery": {
+    "board": "ashby:afterquery",
+    "checked": "2026-11-04"
+  },
+  "Akido Labs": {
+    "board": "greenhouse:akidolabs",
+    "checked": "2026-11-04"
+  },
+  "Ambience Healthcare": {
+    "board": "ashby:ambiencehealthcare",
+    "checked": "2026-11-04"
+  },
+  "Atropos Health": {
+    "board": "ashby:atroposhealth",
+    "checked": "2026-11-04"
+  },
+  "Centaur Labs": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Cleerly": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Commure": {
+    "board": "ashby:commure",
+    "checked": "2026-11-04"
+  },
+  "Corti": {
+    "board": "ashby:corti",
+    "checked": "2026-11-04"
+  },
+  "Counsel Health": {
+    "board": "ashby:counsel",
+    "checked": "2026-11-04"
+  },
+  "DeepScribe": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Doctronic": {
+    "board": "ashby:doctronic",
+    "checked": "2026-11-04"
+  },
+  "Doximity": {
+    "board": "greenhouse:doximity",
+    "checked": "2026-11-04"
+  },
+  "Freed": {
+    "board": "ashby:freed",
+    "checked": "2026-11-04"
+  },
+  "Function Health": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Handshake": {
+    "board": "ashby:handshake",
+    "checked": "2026-11-04"
+  },
+  "Heidi Health": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Hippocratic AI": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Infinitus Systems": {
+    "board": "ashby:infinitus",
+    "checked": "2026-11-04"
+  },
+  "Labelbox": {
+    "board": "greenhouse:labelbox",
+    "checked": "2026-11-04"
+  },
+  "Mendel AI": {
+    "board": "smartrecruiters:mendelai",
+    "checked": "2026-11-04"
+  },
+  "Mercor": {
+    "board": "ashby:mercor",
+    "checked": "2026-11-04"
+  },
+  "Nabla": {
+    "board": "ashby:nabla",
+    "checked": "2026-11-04"
+  },
+  "Navina": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Notable Health": {
+    "board": "ashby:notable",
+    "checked": "2026-11-04"
+  },
+  "OpenEvidence": {
+    "board": "ashby:openevidence",
+    "checked": "2026-11-04"
+  },
+  "Pareto AI": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "PathAI": {
+    "board": "greenhouse:pathai",
+    "checked": "2026-11-04"
+  },
+  "Rad AI": {
+    "board": "ashby:radai",
+    "checked": "2026-11-04"
+  },
+  "Regard": {
+    "board": "ashby:regard",
+    "checked": "2026-11-04"
+  },
+  "Sepal AI": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Snorkel AI": {
+    "board": "greenhouse:snorkelai",
+    "checked": "2026-11-04"
+  },
+  "Suki": {
+    "board": "greenhouse:suki",
+    "checked": "2026-11-04"
+  },
+  "SuperAnnotate": {
+    "board": "lever:superannotate",
+    "checked": "2026-11-04"
+  },
+  "Surge AI": {
+    "board": "ashby:surge-ai",
+    "checked": "2026-11-04"
+  },
+  "Tempus": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "Truveta": {
+    "board": "greenhouse:truveta",
+    "checked": "2026-11-04"
+  },
+  "Turing": {
+    "board": "greenhouse:turing",
+    "checked": "2026-11-04"
+  },
+  "Viz.ai": {
+    "board": null,
+    "checked": "2026-11-04"
+  },
+  "micro1": {
+    "board": null,
+    "checked": "2026-11-04"
+  }
+}

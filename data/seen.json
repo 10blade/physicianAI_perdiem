@@ -1,0 +1,366 @@
+{
+  "ashby:corti:ef825459-402d-462b-ac8d-c0a4038a78db": {
+    "company": "Corti",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Clinical Advisor, Psychiatry - German-speaking (Hourly, Part-time)"
+  },
+  "ashby:counsel:f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f": {
+    "company": "Counsel Health",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician, Virtual Care (Part-Time, IMLC Required)"
+  },
+  "ashby:counsel:fb46b812-ee06-4ff3-82f3-fa5de0e77203": {
+    "company": "Counsel Health",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician, Virtual Care (Evenings/Weekends, IMLC Required)"
+  },
+  "greenhouse:agency:4687913101": {
+    "company": "Invisible / Meridial",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Medical Doctor (US) - Freelance AI Trainer Project"
+  },
+  "greenhouse:agency:4687929101": {
+    "company": "Invisible / Meridial",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Medical Doctor (UK) - Freelance AI Trainer Project"
+  },
+  "greenhouse:agency:4699862101": {
+    "company": "Invisible / Meridial",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Medical Specialist (Fluent in Arabic) - Freelance AI Trainer Project"
+  },
+  "greenhouse:scaleai:4591782005": {
+    "company": "Scale AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Medical Fellow - Human Frontier Collective (US)"
+  },
+  "greenhouse:scaleai:4612329005": {
+    "company": "Scale AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Medical Fellow - Human Frontier Collective (UK)"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/cardiologist-30": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Cardiologist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/dermatologist-10": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Dermatologist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/endocrinologist-43": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Endocrinologist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/hematologist-31": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Hematologist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/internal-medicine-specialist-47": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Internal Medicine Specialist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/nephrologist-43": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Nephrologist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/neurologist-43": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Neurologist"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/physician-emergency-medicine-34": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician - Emergency Medicine"
+  },
+  "page:turing.betterteam.com:https://turing.betterteam.com/resident-medical-expert-%28md-do%29-43": {
+    "company": "Turing",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Resident Medical Expert (MD/DO)"
+  },
+  "page:www.careers-page.com:https://www.careers-page.com/24-mag/job/63839YR5": {
+    "company": "24-MAG",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Remote | Medical Doctor - Physician Expert — $230/hour"
+  },
+  "page:www.careers-page.com:https://www.careers-page.com/24-mag/job/63839YWR": {
+    "company": "24-MAG",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Remote | Hospitalist Physician — $100–$120/hour"
+  },
+  "page:www.careers-page.com:https://www.careers-page.com/24-mag/job/7X7X9343": {
+    "company": "24-MAG",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Remote | Hospitalist Physician — $70–$115/hour"
+  },
+  "page:www.careers-page.com:https://www.careers-page.com/24-mag/job/V676VRWR": {
+    "company": "24-MAG",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Remote | Family Medicine Physician (MD) — $100–$120/hour"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/academic-dermatology-ai-evaluation-expert--cmv7ytdzy000502lpw079s6ny/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Python Domain Expert in Dermatology"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/board-certified-physician-healthcare-product-tester--cmw1ywwa8003l07l5r9cox3k6/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Board-Certified Medical Doctor Product Tester"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/clinical-and-health-ai-training-specialist--cmvte5j7j003p08jvz29rgh6q/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Clinical & Health Specialist (English)"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/dermatology-medical-expert-for-nutrition-ai-evaluation--cmv7ytegy000d02lptew8prku/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Medical Expert Dermatology for Nutrition AI Evaluation"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/earth-science-domain-expert--cmvv5b34h005h07jvp12rwn9q/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Earth Science Domain Expert (Dermatology AI)"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/hospital-medicine-physician-ai-trainer--cmv6aknu4003406qki7ie2smd/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician AI Trainer (Hospital Medicine)"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/inpatient-clinical-documentation-reviewer-md-do--cmvgqkydf000g02pcpyxjp77v/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Inpatient Care Physician (MD/DO) Reviewer"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/japanese-bilingual-medical-ai-reviewer--cmv8cg5d9000506k0fdyqawz6/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Bilingual Medical Doctor (Japanese)"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/korean-speaking-medical-doctor-ai-training--cmv8cg5u3000f06k07l6msgl3/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Bilingual Medical Doctor (Korean) for AI Training"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/life-science-domain-expert-dermatology--cmv9eok1j000802rzromgevxx/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Life Science Domain Expert in Dermatology"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/python-domain-expert--cmvatoni9000v02pauc4077w8/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Python Domain Expert, Dermatology AI Evaluation"
+  },
+  "page:www.opentrain.ai:https://www.opentrain.ai/jobs/us-medical-doctors-healthcare-product-testing--cmw1ywwys003w07l58vdhqba0/": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "pay_unlisted",
+    "title": "Medical Doctors (US) Product Testing"
+  },
+  "workable:toloka-ai:01E04A9C9B": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - Clinical AI Evaluator"
+  },
+  "workable:toloka-ai:18BF89CC36": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Family & Internal Medicine MD/DO - Flexible Remote Case Review"
+  },
+  "workable:toloka-ai:1A20D705FF": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr"
+  },
+  "workable:toloka-ai:242B07E319": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote"
+  },
+  "workable:toloka-ai:4429978C73": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician Reviewer (MD/DO) - Medical AI Evaluation"
+  },
+  "workable:toloka-ai:534D3835B2": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote"
+  },
+  "workable:toloka-ai:7F43517691": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Licensed Physician - Medical AI Evaluation"
+  },
+  "workable:toloka-ai:81253FC510": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote"
+  },
+  "workable:toloka-ai:8F6C2484C8": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician AI Tutor (MD/DO) - Clinical Case Review, Remote"
+  },
+  "workable:toloka-ai:A141E91E0C": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Board-Certified Physician - Non-Clinical Remote Case Review"
+  },
+  "workable:toloka-ai:A3798B056F": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Internal Medicine Physician - Remote Clinical Case Review"
+  },
+  "workable:toloka-ai:A89AC8F363": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Internal Medicine Physician (MD/DO) - Remote Chart Review, Flexible"
+  },
+  "workable:toloka-ai:B6CAF8DCE0": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - AI Trainer"
+  },
+  "workable:toloka-ai:C41120052B": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Hospitalist / Internist - Remote Case Review, Up to $100/hr"
+  },
+  "workable:toloka-ai:CFD18E71E5": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Hospitalist / Internist - Medical AI Evaluation (Remote, Part-Time)"
+  },
+  "workable:toloka-ai:E7E52D3BBC": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - Medical AI Evaluation"
+  },
+  "workable:toloka-ai:F82964AE49": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician - AI Clinical Reviewer"
+  },
+  "workable:toloka-ai:F83990DBB6": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Licensed Physician (MD/DO) - Freelance AI Trainer"
+  },
+  "workable:toloka-ai:FAD64C6ADB": {
+    "company": "Toloka AI",
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "status": "qualified",
+    "title": "Physician (MD/DO) - Medical AI Evaluation (Remote, Part-Time)"
+  }
+}
