@@ -1,0 +1,206 @@
+# Settings and sources for the daily search.
+# Edit this file on GitHub (pencil icon) - the next run picks up your changes.
+
+settings:
+  min_hourly_usd: 100        # the pay bar
+  pay_rule: top              # top   = the TOP of the posted range must reach the bar ("$80-$150/hr" counts)
+                             # floor = the BOTTOM must reach it (stricter: "$80-$150/hr" does not count)
+  include_pay_unlisted: true # also list flexible physician roles whose posting gives no rate
+  include_salaried: false    # also list salaried (annual pay) physician roles at AI companies
+
+# Optional: Google Jobs (collects LinkedIn, Indeed, ZipRecruiter, ...) through SerpApi.
+# Runs only when the repository has a SERPAPI_KEY secret. Each query uses one search per day.
+google_jobs:
+  location: United States
+  pages_per_query: 1
+  queries:
+    - physician AI trainer contract
+    - physician AI evaluation hourly remote
+    - medical doctor AI expert part time
+
+# Companies whose public job board is searched every day.
+#   board: "<type>:<slug>"  - pins the board. Types: greenhouse, greenhouse_eu, ashby,
+#                             lever, lever_eu, workable, smartrecruiters, recruitee
+#   no board                - the tool looks for one by name (cached in data/boards.json)
+# Add any company by name; run the "Daily search" workflow with "probe" to test a name first.
+companies:
+  # --- AI training-data and expert platforms ---------------------------------------------
+  - name: Prolific
+    board: greenhouse_eu:prolificacademicltd
+    category: AI expert platform
+    note: US doctors, AI training tasks, $80-$150/hr per task in 2026 postings
+  - name: Invisible / Meridial
+    board: greenhouse:agency
+    category: AI expert platform
+    note: the "agency" board carries freelance AI-trainer projects listed under both Invisible and Meridial
+  - name: Alignerr
+    board: greenhouse:alignerr
+    category: AI expert platform
+  - name: Scale AI
+    board: greenhouse:scaleai
+    category: AI expert platform
+    note: parent of Outlier
+  - name: Toloka AI
+    board: workable:toloka-ai
+    category: AI expert platform
+    note: runs Mindrift
+  - name: Mercor
+    category: AI expert platform
+  - name: micro1
+    category: AI expert platform
+  - name: Handshake
+    category: AI expert platform
+    aliases: [joinhandshake]
+  - name: Turing
+    category: AI expert platform
+  - name: Snorkel AI
+    category: AI expert platform
+  - name: AfterQuery
+    category: AI expert platform
+  - name: Surge AI
+    category: AI expert platform
+  - name: Sepal AI
+    category: AI expert platform
+  - name: Pareto AI
+    category: AI expert platform
+  - name: SuperAnnotate
+    category: AI expert platform
+  - name: Labelbox
+    category: AI expert platform
+  - name: Centaur Labs
+    category: AI expert platform
+
+  # --- Frontier AI labs ----------------------------------------------------------------------
+  - name: xAI
+    board: greenhouse:xai
+    category: AI lab
+    note: Medicine Tutor, $45-$100/hr for US candidates
+  - name: OpenAI
+    board: ashby:openai
+    category: AI lab
+  - name: Anthropic
+    board: greenhouse:anthropic
+    category: AI lab
+  - name: Google DeepMind
+    board: greenhouse:deepmind
+    category: AI lab
+
+  # --- Health-AI companies -------------------------------------------------------------------
+  - name: Glass Health
+    board: lever:glass-health-inc
+    category: Health AI
+    note: AI Clinical Fellow, attending $120/hr, fellow $100/hr, 3-10 h/week
+  - name: K Health
+    board: greenhouse:khealthcareers
+    category: Health AI
+  - name: Counsel Health
+    category: Health AI
+    note: part-time virtual-care physicians on an AI-paired EHR, $140-$155/hr
+  - name: Hippocratic AI
+    category: Health AI
+  - name: Abridge
+    category: Health AI
+  - name: OpenEvidence
+    category: Health AI
+  - name: Ambience Healthcare
+    category: Health AI
+  - name: Nabla
+    category: Health AI
+  - name: Suki
+    category: Health AI
+    aliases: [sukiai]
+  - name: Doximity
+    category: Health AI
+  - name: Rad AI
+    category: Health AI
+  - name: PathAI
+    category: Health AI
+  - name: Tempus
+    category: Health AI
+  - name: Viz.ai
+    category: Health AI
+    aliases: [vizai, viz]
+  - name: Heidi Health
+    category: Health AI
+  - name: Commure
+    category: Health AI
+  - name: Notable Health
+    category: Health AI
+  - name: Infinitus Systems
+    category: Health AI
+    aliases: [infinitus]
+  - name: Atropos Health
+    category: Health AI
+  - name: Function Health
+    category: Health AI
+  - name: Doctronic
+    category: Health AI
+  - name: Akido Labs
+    category: Health AI
+  - name: Mendel AI
+    category: Health AI
+  - name: Freed
+    category: Health AI
+    aliases: [getfreed, freed-ai]
+  - name: Navina
+    category: Health AI
+  - name: Regard
+    category: Health AI
+    aliases: [withregard]
+  - name: Cleerly
+    category: Health AI
+  - name: Truveta
+    category: Health AI
+  - name: DeepScribe
+    category: Health AI
+  - name: Corti
+    category: Health AI
+
+# Careers pages with no public job API, read on a best-effort basis (robots.txt is respected).
+# A page that builds its list with JavaScript shows "no job links found"; check it by hand.
+pages:
+  - name: Turing (careers page)
+    url: https://turing.betterteam.com/
+    category: AI expert platform
+  - name: OpenTrain AI (medical jobs)
+    url: https://www.opentrain.ai/jobs/category/medical-health/
+    category: AI expert platform
+  - name: 24-MAG (careers page)
+    url: https://www.careers-page.com/24-mag
+    category: Recruiter
+  - name: micro1 (job board)
+    url: https://jobs.micro1.ai/
+    category: AI expert platform
+  - name: Handshake AI (opportunities)
+    url: https://joinhandshake.com/ai/opportunities/
+    category: AI expert platform
+  - name: Mercor (explore page)
+    url: https://work.mercor.com/explore
+    category: AI expert platform
+
+# Shown at the end of every report: platforms to check by hand.
+check_directly:
+  - name: Mercor
+    url: https://work.mercor.com/explore
+    note: physician listings at $130-$300/hr in Oct-Nov 2026; its healthcare page quotes about $115-$190/hr
+  - name: micro1
+    url: https://jobs.micro1.ai/
+    note: physician AI-trainer listings at $80-$230/hr
+  - name: Turing
+    url: https://turing.betterteam.com/
+    note: physician contracts at $100-$300/hr, including some open to residents
+  - name: Handshake AI
+    url: https://joinhandshake.com/ai/
+    note: physician projects at $110-$200/hr in 2026; Medicine Expert fellowship "up to $125/hr"
+  - name: OpenTrain AI
+    url: https://www.opentrain.ai/jobs/category/medical-health/
+    note: physician AI evaluation contracts at $80-$200/hr
+  - name: 24-MAG
+    url: https://www.careers-page.com/24-mag
+    note: physician AI review contracts up to $130-$250/hr
+  - name: Mindrift
+    url: https://mindrift.ai/
+    note: MD/DO AI-trainer tasks, paid per task, advertised as up to $130-$240/hr equivalent
+  - name: DataAnnotation
+    url: https://dataannotation.tech/medicine
+    note: medical projects from $50/hr; physician postings at $40-$125/hr
