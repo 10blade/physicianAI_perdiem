@@ -1,36 +1,33 @@
-## 15 new physician AI task(s) paying $100+/hr
+## 11 new physician AI task(s) paying $100+/hr
 
 |  | Company | Role | Pay | Type | Location | Posted |
 |---|---|---|---|---|---|---|
-| 🆕 | Turing | [Remote Cardiologist](https://turing.betterteam.com/remote-cardiologist-55) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-05 |
-| 🆕 | Turing | [Remote Endocrinologist](https://turing.betterteam.com/remote-endocrinologist-54) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-05 |
-| 🆕 | Turing | [Remote Hematologist](https://turing.betterteam.com/remote-hematologist-39) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-05 |
-| 🆕 | Turing | [Remote Internal Medicine Specialist](https://turing.betterteam.com/remote-internal-medicine-specialist-39) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-05 |
-| 🆕 | Turing | [Remote Neurologist](https://turing.betterteam.com/remote-neurologist-54) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-05 |
-| 🆕 | Turing | [Remote Physician - Emergency Medicine](https://turing.betterteam.com/remote-physician-emergency-medicine-39) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-05 |
-| 🆕 | Turing | [Remote Resident Medical Expert (MD/DO)](https://turing.betterteam.com/remote-resident-medical-expert-%28md-do%29-39) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-05 |
-| 🆕 | 24-MAG | [Remote \| Medical Doctor - Physician Expert — $230/hour](https://www.careers-page.com/24-mag/job/63839YR5) | $230/hr | OTHER | New York, United States | 2026-10-23 |
-| 🆕 | Turing | [Remote Dermatologist](https://turing.betterteam.com/remote-dermatologist-9) | $190–$200/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-05 |
-| 🆕 | OpenTrain AI | [Bilingual Medical Doctor (Japanese)](https://www.opentrain.ai/jobs/japanese-bilingual-medical-ai-reviewer--cmv8cg5d9000506k0fdyqawz6/) | $125/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-10-14 |
-| 🆕 | OpenTrain AI | [Bilingual Medical Doctor (Korean) for AI Training](https://www.opentrain.ai/jobs/korean-speaking-medical-doctor-ai-training--cmv8cg5u3000f06k07l6msgl3/) | $125/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-10-14 |
-| 🆕 | 24-MAG | [Remote \| Family Medicine Physician (MD) — $100–$120/hour](https://www.careers-page.com/24-mag/job/V676VRWR) | $100–$120/hr | OTHER | New York, United States | 2026-10-23 |
-| 🆕 | 24-MAG | [Remote \| Hospitalist Physician — $100–$120/hour](https://www.careers-page.com/24-mag/job/63839YWR) | $100–$120/hr | OTHER | New York, United States | 2026-10-23 |
-| 🆕 | 24-MAG | [Remote \| Hospitalist Physician — $70–$115/hour](https://www.careers-page.com/24-mag/job/7X7X9343) | $70–$115/hr | OTHER | New York, United States | 2026-10-23 |
-| 🆕 | OpenTrain AI | [Inpatient Care Physician (MD/DO) Reviewer](https://www.opentrain.ai/jobs/inpatient-clinical-documentation-reviewer-md-do--cmvgqkydf000g02pcpyxjp77v/) | $100–$115/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-10-20 |
+| 🆕 | OpenTrain AI | [Facial And Maxillofacial Trauma Surgeon](https://www.opentrain.ai/jobs/facial-and-maxillofacial-trauma-surgeon--cmw3tv47p00hx08lgjwdsd4jt/) | up to $300/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Cardiologist AI Response Evaluator](https://www.opentrain.ai/jobs/cardiology-ai-response-evaluator--cmw3tv43t00hv08lg4to82n4z/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Emergency Physician AI Evaluation](https://www.opentrain.ai/jobs/emergency-medicine-ai-evaluation-physician--cmw3tv4fw00i108lghgoughus/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Infectious Disease Physician AI Evaluation](https://www.opentrain.ai/jobs/infectious-disease-ai-evaluation-physician--cmw3tv4s200i708lgj2059gux/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Intensivist (Critical Care AI Evaluation)](https://www.opentrain.ai/jobs/critical-care-ai-evaluation-intensivist--cmw3tv3zg00ht08lg3f7rojme/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Medical AI Response Evaluation Expert (Physicians)](https://www.opentrain.ai/jobs/medical-ai-response-evaluation-expert--cmw3tv37s00hh08lgibjq8iey/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Neurologist AI Evaluation Expert](https://www.opentrain.ai/jobs/neurology-ai-evaluation-expert--cmw3tv3vm00hr08lg5pgmy98y/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Obstetrician-Gynecologist AI Evaluation Expert](https://www.opentrain.ai/jobs/obstetrician-gynecologist-ai-evaluation-expert--cmw3tv3re00hp08lgx5xcagtg/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Ophthalmologist AI Response Evaluator](https://www.opentrain.ai/jobs/ophthalmology-ai-response-evaluator--cmw3tv4o200i508lgfts14x44/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Radiation Oncologist AI Evaluation Expert](https://www.opentrain.ai/jobs/radiation-oncology-ai-evaluation-expert--cmw3tv4k000i308lgfnyf4t33/) | up to $180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-05 |
+| 🆕 | OpenTrain AI | [Psychiatrist Expert, AI Clinical Review](https://www.opentrain.ai/jobs/psychiatric-ai-clinical-review-expert--cmw53r5rm00bi08l2wsyox7a7/) | $125/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-06 |
 
-### Also new: 10 flexible physician role(s) with no posted pay
+### Also new: 11 flexible physician role(s) with no posted pay
 
 |  | Company | Role | Type | Location | Posted |
 |---|---|---|---|---|---|
-| 🆕 | OpenTrain AI | [Board-Certified Medical Doctor Product Tester](https://www.opentrain.ai/jobs/board-certified-physician-healthcare-product-tester--cmw1ywwa8003l07l5r9cox3k6/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-04 |
-| 🆕 | OpenTrain AI | [Clinical & Health Specialist (English)](https://www.opentrain.ai/jobs/clinical-and-health-ai-training-specialist--cmvte5j7j003p08jvz29rgh6q/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-10-29 |
-| 🆕 | OpenTrain AI | [Earth Science Domain Expert (Dermatology AI)](https://www.opentrain.ai/jobs/earth-science-domain-expert--cmvv5b34h005h07jvp12rwn9q/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-10-30 |
-| 🆕 | OpenTrain AI | [Life Science Domain Expert in Dermatology](https://www.opentrain.ai/jobs/life-science-domain-expert-dermatology--cmv9eok1j000802rzromgevxx/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-10-15 |
-| 🆕 | OpenTrain AI | [Medical Doctors (India) for Healthcare Product Testing](https://www.opentrain.ai/jobs/medical-product-testing-physician-india--cmw1ywweo003o07l54wdj0jnq/) | CONTRACTOR, PART TIME | Remote (India) | 2026-11-04 |
-| 🆕 | OpenTrain AI | [Medical Doctors (US) Product Testing](https://www.opentrain.ai/jobs/us-medical-doctors-healthcare-product-testing--cmw1ywwys003w07l58vdhqba0/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-04 |
-| 🆕 | OpenTrain AI | [Medical Expert Dermatology for Nutrition AI Evaluation](https://www.opentrain.ai/jobs/dermatology-medical-expert-for-nutrition-ai-evaluation--cmv7ytegy000d02lptew8prku/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-10-14 |
-| 🆕 | OpenTrain AI | [Python Domain Expert in Dermatology](https://www.opentrain.ai/jobs/academic-dermatology-ai-evaluation-expert--cmv7ytdzy000502lpw079s6ny/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-10-14 |
-| 🆕 | OpenTrain AI | [Python Domain Expert, Dermatology AI Evaluation](https://www.opentrain.ai/jobs/python-domain-expert--cmvatoni9000v02pauc4077w8/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-10-16 |
-| 🆕 | Toloka AI | [Licensed Physician (MD/DO) - Freelance AI Trainer](https://apply.workable.com/j/010AB12096) | Part-time | 154 listings · Israel / Jordan / Lebanon / E… | 2026-11-03 |
+| 🆕 | OpenTrain AI | [Emergency Medicine Physician (MD/DO)](https://www.opentrain.ai/jobs/emergency-medicine-ai-evaluation-physician--cmw4vd6yd003608l51akt5wpl/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
+| 🆕 | OpenTrain AI | [Endocrinologist AI Medical Evaluator](https://www.opentrain.ai/jobs/endocrinology-ai-medical-evaluator--cmw4vd76j003a08l5a9pilnrg/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
+| 🆕 | OpenTrain AI | [Gastroenterologist/Hepatologist AI Evaluation Expert](https://www.opentrain.ai/jobs/gastroenterology-and-hepatology-ai-evaluation-expert--cmw4vd7gc003e08l57bxwx1k1/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
+| 🆕 | OpenTrain AI | [Hematologist/Oncologist AI Evaluation Physician](https://www.opentrain.ai/jobs/hematology-and-oncology-ai-evaluation-physician--cmw4vd7s5003g08l5ynubsve6/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
+| 🆕 | OpenTrain AI | [Pulmonologist/Intensivist AI Evaluation Expert](https://www.opentrain.ai/jobs/pulmonary-and-critical-care-ai-evaluation-expert--cmw4vd7bc003c08l5pub9eyrx/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
+| 🆕 | Toloka AI | [Board-Certified Physician - Non-Clinical Remote Case Review](https://apply.workable.com/j/58E16CE9F7) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
+| 🆕 | Toloka AI | [Family & Internal Medicine MD/DO - Flexible Remote Case Review](https://apply.workable.com/j/3F8940DFE2) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
+| 🆕 | Toloka AI | [Hospitalist / Internist - Remote Case Review, Up to $100/hr](https://apply.workable.com/j/055144F90F) | Part-time | 12 listings · Ohio, United States / Columbus… | 2026-11-06 |
+| 🆕 | Toloka AI | [Internal Medicine Physician](https://apply.workable.com/j/4785CA697E) | Part-time | 12 listings · Ohio, United States / Columbus… | 2026-11-06 |
+| 🆕 | Toloka AI | [Physician (MD/DO) - Put Medical AI to the Test, Remote](https://apply.workable.com/j/033A642FB6) | Part-time | 154 listings · Canada / Toronto, Ontario, Ca… | 2026-11-06 |
+| 🆕 | Toloka AI | [Physician AI Tutor (MD/DO) - Clinical Case Review, Remote](https://apply.workable.com/j/158ECAC7F7) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
 
 Full list: [results/latest.md](https://github.com/10blade/physicianAI_perdiem/blob/main/results/latest.md)
