@@ -1,6 +1,6 @@
 # Sources searched
 
-Run of 2026-11-07 16:55 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
+Run of 2026-11-08 17:08 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
 
 | Source | Board or page | Status | Postings | Matches | Note |
 |---|---|---|---|---|---|
@@ -36,9 +36,9 @@ Run of 2026-11-07 16:55 UTC. "Matches" counts physician postings that made the r
 | Nabla | ashby:nabla | ✅ ok | 10 | 0 | auto-detected |
 | Navina | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | Notable Health | ashby:notable | ✅ ok | 9 | 0 | auto-detected |
-| OpenAI | ashby:openai | ✅ ok | 819 | 0 |  |
+| OpenAI | ashby:openai | ✅ ok | 816 | 0 |  |
 | OpenEvidence | ashby:openevidence | ✅ ok | 8 | 0 | auto-detected |
-| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 19 | 17 | 19 physician-looking links, 19 opened |
+| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 14 | 10 | 14 physician-looking links, 14 opened |
 | Pareto AI | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | PathAI | greenhouse:pathai | ✅ ok | 13 | 0 | auto-detected |
 | Prolific | greenhouse:prolificacademicltd | ✅ ok | 4,174 | 301 |  |
@@ -51,9 +51,9 @@ Run of 2026-11-07 16:55 UTC. "Matches" counts physician postings that made the r
 | SuperAnnotate | lever:superannotate | ✅ ok | 5 | 0 | auto-detected |
 | Surge AI | ashby:surge-ai | ✅ ok | 35 | 0 | auto-detected |
 | Tempus | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
-| Toloka AI | workable:toloka-ai | ✅ ok | 2,866 | 865 |  |
+| Toloka AI | workable:toloka-ai | ✅ ok | 2,867 | 866 |  |
 | Truveta | greenhouse:truveta | ✅ ok | 34 | 0 | auto-detected |
 | Turing | greenhouse:turing | ✅ ok | 47 | 0 | auto-detected |
 | Turing (careers page) | https://turing.betterteam.com/ | ✅ ok | 31 | 22 | 31 physician-looking links, 25 opened |
 | Viz.ai | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
-| xAI | greenhouse:xai | ✅ ok | 303 | 0 |  |
+| xAI | greenhouse:xai | ✅ ok | 304 | 0 |  |

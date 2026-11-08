@@ -9,42 +9,42 @@
   "ashby:counsel:f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f": {
     "company": "Counsel Health",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Physician, Virtual Care (Part-Time, IMLC Required)"
   },
   "ashby:counsel:fb46b812-ee06-4ff3-82f3-fa5de0e77203": {
     "company": "Counsel Health",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Physician, Virtual Care (Evenings/Weekends, IMLC Required)"
   },
   "greenhouse:agency:4687913101": {
     "company": "Invisible / Meridial",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Medical Doctor (US) - Freelance AI Trainer Project"
   },
   "greenhouse:agency:4687929101": {
     "company": "Invisible / Meridial",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Medical Doctor (UK) - Freelance AI Trainer Project"
   },
   "greenhouse:agency:4699862101": {
     "company": "Invisible / Meridial",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Medical Specialist (Fluent in Arabic) - Freelance AI Trainer Project"
   },
   "greenhouse:prolificacademicltd:4854898101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Doctors - AI Training"
   },
@@ -352,14 +352,14 @@
   "greenhouse:prolificacademicltd:4883871101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Pathologists (Freelance - Remote)"
   },
   "greenhouse:prolificacademicltd:4883924101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Cardiologists (Freelance - Remote)"
   },
@@ -786,7 +786,7 @@
   "greenhouse:prolificacademicltd:4884392101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Ophthalmologists (Freelance - Remote)"
   },
@@ -1423,7 +1423,7 @@
   "greenhouse:prolificacademicltd:5019381101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "AI Research Participants - United States (Remote) — 70 roles incl. Physicians, Family Medicine Physician, Telemedicine Physician"
   },
@@ -1486,7 +1486,7 @@
   "greenhouse:prolificacademicltd:5020499101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "AI Research Participants - United States — 14 roles incl. Cardiologist, Critical Care Physician, Cruise Ship Physician"
   },
@@ -2011,7 +2011,7 @@
   "greenhouse:scaleai:4591782005": {
     "company": "Scale AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Medical Fellow - Human Frontier Collective"
   },
@@ -2144,84 +2144,84 @@
   "page:turing.betterteam.com:turing:remotecardiologist": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Cardiologist"
   },
   "page:turing.betterteam.com:turing:remotedermatologist": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Dermatologist"
   },
   "page:turing.betterteam.com:turing:remoteendocrinologist": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Endocrinologist"
   },
   "page:turing.betterteam.com:turing:remotehematologist": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Hematologist"
   },
   "page:turing.betterteam.com:turing:remoteinternalmedicinespecialist": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Internal Medicine Specialist"
   },
   "page:turing.betterteam.com:turing:remoteneurologist": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Neurologist"
   },
   "page:turing.betterteam.com:turing:remotephysicianemergencymedicine": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Physician - Emergency Medicine"
   },
   "page:turing.betterteam.com:turing:remoteresidentmedicalexpertmddo": {
     "company": "Turing",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote Resident Medical Expert (MD/DO)"
   },
   "page:www.careers-page.com:24mag:remotefamilymedicinephysicianmd100120hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote | Family Medicine Physician (MD) — $100–$120/hour"
   },
   "page:www.careers-page.com:24mag:remotehospitalistphysician100120hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote | Hospitalist Physician — $100–$120/hour"
   },
   "page:www.careers-page.com:24mag:remotehospitalistphysician70115hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote | Hospitalist Physician — $70–$115/hour"
   },
   "page:www.careers-page.com:24mag:remotemedicaldoctorphysicianexpert230hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Remote | Medical Doctor - Physician Expert — $230/hour"
   },
@@ -2382,7 +2382,7 @@
   "page:www.opentrain.ai:opentrainai:emergencymedicinephysicianmddo": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Emergency Medicine Physician (MD/DO)"
   },
@@ -2396,7 +2396,7 @@
   "page:www.opentrain.ai:opentrainai:endocrinologistaimedicalevaluator": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Endocrinologist AI Medical Evaluator"
   },
@@ -2410,21 +2410,21 @@
   "page:www.opentrain.ai:opentrainai:gastroenterologisthepatologistaievaluationexpert": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Gastroenterologist/Hepatologist AI Evaluation Expert"
   },
   "page:www.opentrain.ai:opentrainai:hematologistoncologistaievaluationphysician": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Hematologist/Oncologist AI Evaluation Physician"
   },
   "page:www.opentrain.ai:opentrainai:infectiousdiseasephysicianaievaluation": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Infectious Disease Physician AI Evaluation"
   },
@@ -2494,7 +2494,7 @@
   "page:www.opentrain.ai:opentrainai:ophthalmologistairesponseevaluator": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Ophthalmologist AI Response Evaluator"
   },
@@ -2505,10 +2505,24 @@
     "status": "qualified",
     "title": "Psychiatrist Expert, AI Clinical Review"
   },
+  "page:www.opentrain.ai:opentrainai:psychiatristexpertforclinicalaireview": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "status": "qualified",
+    "title": "Psychiatrist Expert for Clinical AI Review"
+  },
+  "page:www.opentrain.ai:opentrainai:psychiatrists": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "status": "qualified",
+    "title": "Psychiatrists"
+  },
   "page:www.opentrain.ai:opentrainai:pulmonologistintensivistaievaluationexpert": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Pulmonologist/Intensivist AI Evaluation Expert"
   },
@@ -2529,7 +2543,7 @@
   "page:www.opentrain.ai:opentrainai:radiationoncologistaievaluationexpert": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Radiation Oncologist AI Evaluation Expert"
   },
@@ -2564,14 +2578,14 @@
   "workable:toloka-ai:0265831435": {
     "company": "Toloka AI",
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Licensed Physician (MD/DO) - Freelance AI Trainer"
   },
   "workable:toloka-ai:033A642FB6": {
     "company": "Toloka AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote"
   },
@@ -2585,21 +2599,21 @@
   "workable:toloka-ai:055144F90F": {
     "company": "Toloka AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Hospitalist / Internist - Remote Case Review, Up to $100/hr"
   },
   "workable:toloka-ai:08224055C9": {
     "company": "Toloka AI",
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "qualified",
     "title": "Licensed Physician (MD/DO) - Freelance AI Trainer"
   },
   "workable:toloka-ai:08357F6FD6": {
     "company": "Toloka AI",
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Medical AI Evaluation — 3 roles incl. Physician (MD/DO), Physician Reviewer (MD/DO), Licensed Physician"
   },
@@ -2613,7 +2627,7 @@
   "workable:toloka-ai:158ECAC7F7": {
     "company": "Toloka AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Physician AI Tutor (MD/DO) - Clinical Case Review, Remote"
   },
@@ -2627,7 +2641,7 @@
   "workable:toloka-ai:1A20D705FF": {
     "company": "Toloka AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr"
   },
@@ -2655,7 +2669,7 @@
   "workable:toloka-ai:3F8940DFE2": {
     "company": "Toloka AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Family & Internal Medicine MD/DO - Flexible Remote Case Review"
   },
@@ -2669,7 +2683,7 @@
   "workable:toloka-ai:4785CA697E": {
     "company": "Toloka AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Internal Medicine Physician"
   },
@@ -2683,7 +2697,7 @@
   "workable:toloka-ai:58E16CE9F7": {
     "company": "Toloka AI",
     "first_seen": "2026-11-06",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Board-Certified Physician - Non-Clinical Remote Case Review"
   },
@@ -2718,7 +2732,7 @@
   "workable:toloka-ai:A3798B056F": {
     "company": "Toloka AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Internal Medicine Physician - Remote Clinical Case Review"
   },
@@ -2732,7 +2746,7 @@
   "workable:toloka-ai:B6CAF8DCE0": {
     "company": "Toloka AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Physician (MD/DO) - AI Trainer"
   },
@@ -2746,7 +2760,7 @@
   "workable:toloka-ai:CFD18E71E5": {
     "company": "Toloka AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Hospitalist / Internist - Medical AI Evaluation (Remote, Part-Time)"
   },
@@ -2760,7 +2774,7 @@
   "workable:toloka-ai:F82964AE49": {
     "company": "Toloka AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-08",
     "status": "pay_unlisted",
     "title": "Physician - AI Clinical Reviewer"
   },
