@@ -1,20 +1,17 @@
-## 8 new physician AI task(s) paying $100+/hr
+## 5 new physician AI task(s) paying $100+/hr
 
 |  | Company | Role | Pay | Type | Location | Posted |
 |---|---|---|---|---|---|---|
-| 🆕 | Turing | [Cardiologist](https://turing.betterteam.com/cardiologist-31) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-09 |
-| 🆕 | Turing | [Endocrinologist](https://turing.betterteam.com/endocrinologist-44) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-09 |
-| 🆕 | Turing | [Hematologist](https://turing.betterteam.com/hematologist-32) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-09 |
-| 🆕 | Turing | [Internal Medicine Specialist](https://turing.betterteam.com/internal-medicine-specialist-48) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-09 |
-| 🆕 | Turing | [Neurologist](https://turing.betterteam.com/neurologist-44) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-09 |
-| 🆕 | Turing | [Physician - Emergency Medicine](https://turing.betterteam.com/physician-emergency-medicine-35) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-09 |
-| 🆕 | Turing | [Resident Medical Expert (MD/DO)](https://turing.betterteam.com/resident-medical-expert-%28md-do%29-44) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-09 |
-| 🆕 | Turing | [Dermatologist](https://turing.betterteam.com/dermatologist-11) | $190–$200/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-09 |
+| 🆕 | OpenTrain AI | [General Cardiologist, Cardiovascular Imaging AI Trainer](https://www.opentrain.ai/jobs/cardiac-imaging-ai-trainer--cmwat2zaq00gj08l5j4o6z8vz/) | $88–$308/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
+| 🆕 | OpenTrain AI | [Heart Failure and Transplant Cardiologist AI Trainer](https://www.opentrain.ai/jobs/heart-failure-and-transplant-cardiology-ai-trainer--cmwauov98007x08l3sxu4liid/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
+| 🆕 | OpenTrain AI | [Interventional Cardiologist AI Trainer](https://www.opentrain.ai/jobs/interventional-cardiologist-ai-trainer--cmwauouxq007n08l331itto53/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
+| 🆕 | OpenTrain AI | [Preventive Cardiologist AI Trainer (English)](https://www.opentrain.ai/jobs/preventive-cardiology-ai-trainer--cmwav7of200i008jp9rrx87uh/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
+| 🆕 | OpenTrain AI | [Hematology/Oncology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwa0pp5h007c07l8wuxpqban/) | $100–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 
 ### Also new: 1 flexible physician role(s) with no posted pay
 
 |  | Company | Role | Type | Location | Posted |
 |---|---|---|---|---|---|
-| 🆕 | OpenTrain AI | [Emergency Medicine Physician (MD/DO) AI Evaluator](https://www.opentrain.ai/jobs/emergency-medicine-ai-evaluation-physician--cmw4vd6yd003608l51akt5wpl/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
+| 🆕 | OpenTrain AI | [Endocrinologist AI Medical Evaluator (English)](https://www.opentrain.ai/jobs/endocrinology-ai-medical-evaluator--cmw4vd76j003a08l5a9pilnrg/) | CONTRACTOR, PART TIME | Remote (Andorra / United Arab Emirates / Afg… | 2026-11-06 |
 
 Full list: [results/latest.md](https://github.com/10blade/physicianAI_perdiem/blob/main/results/latest.md)
