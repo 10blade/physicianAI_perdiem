@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-14T17:13:25Z",
+  "updated": "2026-11-15T17:52:54Z",
   "min_hourly_usd": 100.0,
   "pay_rule": "top",
   "partial_run": false,
   "counts": {
     "qualified": 32,
-    "pay_unlisted": 20,
-    "new_qualified": 1,
-    "new_pay_unlisted": 2,
+    "pay_unlisted": 19,
+    "new_qualified": 0,
+    "new_pay_unlisted": 0,
     "sources_ok": 40,
     "sources_failed": 0,
-    "postings_scanned": 10115
+    "postings_scanned": 10103
   },
   "jobs": [
     {
@@ -486,7 +486,7 @@
       "remote": true,
       "posted": "2026-11-13",
       "first_seen": "2026-11-14",
-      "new": true,
+      "new": false,
       "category": "AI expert platform",
       "source": "page:www.opentrain.ai",
       "via": "",
@@ -899,61 +899,6 @@
       ]
     },
     {
-      "company": "OpenTrain AI",
-      "title": "Clinical AI Evaluation Physician, DataGen & Evals",
-      "url": "https://www.opentrain.ai/jobs/japanese-clinical-ai-evaluation-physician--cmwff9slx004v08l53zy5ix3m/",
-      "status": "pay_unlisted",
-      "pay": "",
-      "pay_min_hourly": null,
-      "pay_max_hourly": null,
-      "pay_basis": "",
-      "pay_quote": "",
-      "employment_type": "CONTRACTOR, PART_TIME",
-      "location": "Remote (Japan)",
-      "listings": 1,
-      "remote": true,
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "new": true,
-      "category": "AI expert platform",
-      "source": "page:www.opentrain.ai",
-      "via": "",
-      "physician_terms": [
-        "Physician",
-        "Clinical",
-        "physician",
-        "medical license",
-        "Internal Medicine",
-        "clinical practice"
-      ]
-    },
-    {
-      "company": "OpenTrain AI",
-      "title": "Medical Expert (Dermatology), AI Training",
-      "url": "https://www.opentrain.ai/jobs/us-medical-expert-dermatology--cmwff9td6005608l5s43kqe8f/",
-      "status": "pay_unlisted",
-      "pay": "",
-      "pay_min_hourly": null,
-      "pay_max_hourly": null,
-      "pay_basis": "",
-      "pay_quote": "",
-      "employment_type": "CONTRACTOR, PART_TIME",
-      "location": "Remote (United States)",
-      "listings": 1,
-      "remote": true,
-      "posted": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "new": true,
-      "category": "AI expert platform",
-      "source": "page:www.opentrain.ai",
-      "via": "",
-      "physician_terms": [
-        "Dermatology",
-        "Medical Expert",
-        "Medical"
-      ]
-    },
-    {
       "company": "Abridge",
       "title": "Member of Clinical Staff, Life Sciences",
       "url": "https://jobs.ashbyhq.com/Abridge/89db9a1b-a590-4f17-be65-ac21507945c0",
@@ -1332,6 +1277,32 @@
         "MBBS",
         "MD",
         "family medicine"
+      ]
+    },
+    {
+      "company": "OpenTrain AI",
+      "title": "Medical Expert (Dermatology), AI Training",
+      "url": "https://www.opentrain.ai/jobs/us-medical-expert-dermatology--cmwff9td6005608l5s43kqe8f/",
+      "status": "pay_unlisted",
+      "pay": "",
+      "pay_min_hourly": null,
+      "pay_max_hourly": null,
+      "pay_basis": "",
+      "pay_quote": "",
+      "employment_type": "CONTRACTOR, PART_TIME",
+      "location": "Remote (United States)",
+      "listings": 1,
+      "remote": true,
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "new": false,
+      "category": "AI expert platform",
+      "source": "page:www.opentrain.ai",
+      "via": "",
+      "physician_terms": [
+        "Dermatology",
+        "Medical Expert",
+        "Medical"
       ]
     },
     {

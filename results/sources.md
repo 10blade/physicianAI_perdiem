@@ -1,6 +1,6 @@
 # Sources searched
 
-Run of 2026-11-14 17:13 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
+Run of 2026-11-15 17:52 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
 
 | Source | Board or page | Status | Postings | Matches | Note |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Run of 2026-11-14 17:13 UTC. "Matches" counts physician postings that made the r
 | Akido Labs | greenhouse:akidolabs | ✅ ok | 33 | 0 | auto-detected |
 | Alignerr | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | Ambience Healthcare | ashby:ambiencehealthcare | ✅ ok | 18 | 0 | auto-detected |
-| Anthropic | greenhouse:anthropic | ✅ ok | 669 | 0 |  |
+| Anthropic | greenhouse:anthropic | ✅ ok | 667 | 0 |  |
 | Atropos Health | ashby:atroposhealth | ✅ ok | 1 | 0 | auto-detected |
 | Centaur Labs | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | Cleerly | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
@@ -36,9 +36,9 @@ Run of 2026-11-14 17:13 UTC. "Matches" counts physician postings that made the r
 | Nabla | ashby:nabla | ✅ ok | 9 | 0 | auto-detected |
 | Navina | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | Notable Health | ashby:notable | ✅ ok | 9 | 0 | auto-detected |
-| OpenAI | ashby:openai | ✅ ok | 839 | 0 |  |
+| OpenAI | ashby:openai | ✅ ok | 837 | 0 |  |
 | OpenEvidence | ashby:openevidence | ✅ ok | 8 | 0 | auto-detected |
-| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 20 | 14 | 20 physician-looking links, 20 opened |
+| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 19 | 13 | 19 physician-looking links, 19 opened |
 | Pareto AI | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | PathAI | greenhouse:pathai | ✅ ok | 15 | 0 | auto-detected |
 | Prolific | greenhouse:prolificacademicltd | ✅ ok | 4,174 | 301 |  |
@@ -51,9 +51,9 @@ Run of 2026-11-14 17:13 UTC. "Matches" counts physician postings that made the r
 | SuperAnnotate | lever:superannotate | ✅ ok | 5 | 0 | auto-detected |
 | Surge AI | ashby:surge-ai | ✅ ok | 35 | 0 | auto-detected |
 | Tempus | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
-| Toloka AI | workable:toloka-ai | ✅ ok | 2,398 | 861 |  |
+| Toloka AI | workable:toloka-ai | ✅ ok | 2,394 | 861 |  |
 | Truveta | greenhouse:truveta | ✅ ok | 33 | 0 | auto-detected |
-| Turing | greenhouse:turing | ✅ ok | 48 | 0 | auto-detected |
+| Turing | greenhouse:turing | ✅ ok | 45 | 0 | auto-detected |
 | Turing (careers page) | https://turing.betterteam.com/ | ✅ ok | 27 | 22 | 27 physician-looking links, 25 opened |
 | Viz.ai | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-04) |
 | xAI | greenhouse:xai | ✅ ok | 296 | 0 |  |

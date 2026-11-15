@@ -1,6 +1,6 @@
 # Physician AI tasks paying $100+/hr
 
-Updated **2026-11-14 17:13 UTC** · 40 of 53 sources searched · 10,115 postings scanned
+Updated **2026-11-15 17:52 UTC** · 40 of 53 sources searched · 10,103 postings scanned
 
 ## ✅ Pays $100/hr or more — 32 roles
 
@@ -23,7 +23,7 @@ Updated **2026-11-14 17:13 UTC** · 40 of 53 sources searched · 10,115 postings
 |  | Prolific | [Pathologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883871101) | $48–$200/hr | flexible | 66 listings · Remote | 2026-06-04 |
 |  | Turing | [Remote Dermatologist](https://turing.betterteam.com/remote-dermatologist-12) | $190–$200/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-11 |
 |  | OpenTrain AI | [Hematologist Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwb9o6cf009208jjaxy38wvp/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
-| 🆕 | OpenTrain AI | [Hematology Physician Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
+|  | OpenTrain AI | [Hematology Physician Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
 |  | OpenTrain AI | [Hematology/Oncology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwa0pp5h007c07l8wuxpqban/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | OpenTrain AI | [Medical Oncologist Clinical Documentation Reviewer](https://www.opentrain.ai/jobs/medical-oncology-clinical-documentation-reviewer--cmwba7j8g00b508ijm3smp868/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | OpenTrain AI | [Pediatric Hematology/Oncology Physician Reviewer](https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
@@ -41,17 +41,16 @@ Updated **2026-11-14 17:13 UTC** · 40 of 53 sources searched · 10,115 postings
 
 🆕 = new since the last run. Pay is copied from the posting; a role counts when the top of the posted range reaches $100/hr. ≈ marks an hourly estimate converted from a daily (÷8) or annual (÷2,080) figure.
 
-## 🟡 Physician roles with flexible hours, pay not posted — 20
+## 🟡 Physician roles with flexible hours, pay not posted — 19
 
 These match on role and schedule but the posting gives no rate. Many pay well; check before applying.
 
 |  | Company | Role | Type | Location | Posted |
 |---|---|---|---|---|---|
-| 🆕 | OpenTrain AI | [Clinical AI Evaluation Physician, DataGen & Evals](https://www.opentrain.ai/jobs/japanese-clinical-ai-evaluation-physician--cmwff9slx004v08l53zy5ix3m/) | CONTRACTOR, PART TIME | Remote (Japan) | 2026-11-13 |
-| 🆕 | OpenTrain AI | [Medical Expert (Dermatology), AI Training](https://www.opentrain.ai/jobs/us-medical-expert-dermatology--cmwff9td6005608l5s43kqe8f/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
 |  | Invisible / Meridial | [Medical Specialist (Fluent in Arabic) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4699862101) | flexible | 2 listings · World Wide - Remote / United St… | 2025-10-24 |
 |  | OpenTrain AI | [Emergency Medicine Physician AI Evaluation](https://www.opentrain.ai/jobs/emergency-medicine-ai-training-physician--cmwc5u4ct003n07l8zo69ce8u/) | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-11 |
 |  | OpenTrain AI | [Family Medicine Physician AI Training Consultant](https://www.opentrain.ai/jobs/family-medicine-physician-ai-training-consultant--cmwc5d0oo006u07l5qdyveygj/) | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-11 |
+|  | OpenTrain AI | [Medical Expert (Dermatology), AI Training](https://www.opentrain.ai/jobs/us-medical-expert-dermatology--cmwff9td6005608l5s43kqe8f/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
 |  | OpenTrain AI | [Radiologist, Radiology AI Response Evaluator](https://www.opentrain.ai/jobs/radiology-ai-response-evaluator--cmwc5d1ny007f07l5xkmeb0o3/) | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-11 |
 |  | Scale AI | [Medical Fellow - Human Frontier Collective](https://job-boards.greenhouse.io/scaleai/jobs/4591782005) | flexible | 2 listings · United States / United Kingdom | 2025-07-30 |
 |  | Toloka AI | [Board-Certified Physician - Non-Clinical Remote Case Review](https://apply.workable.com/j/58E16CE9F7) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
