@@ -1,19 +1,19 @@
 # Physician AI tasks paying $100+/hr
 
-Updated **2026-11-15 17:52 UTC** · 40 of 53 sources searched · 10,103 postings scanned
+Updated **2026-11-16 21:07 UTC** · 40 of 53 sources searched · 10,011 postings scanned
 
-## ✅ Pays $100/hr or more — 32 roles
+## ✅ Pays $100/hr or more — 33 roles
 
 |  | Company | Role | Pay | Type | Location | Posted |
 |---|---|---|---|---|---|---|
-|  | Turing | [Remote Cardiologist](https://turing.betterteam.com/remote-cardiologist-57) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-11 |
-|  | Turing | [Remote Endocrinologist](https://turing.betterteam.com/remote-endocrinologist-57) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-11 |
-|  | Turing | [Remote Hematologist](https://turing.betterteam.com/remote-hematologist-41) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-11 |
-|  | Turing | [Remote Internal Medicine Specialist](https://turing.betterteam.com/remote-internal-medicine-specialist-42) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-11 |
-|  | Turing | [Remote Nephrologist](https://turing.betterteam.com/remote-nephrologist-57) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-11 |
-|  | Turing | [Remote Neurologist](https://turing.betterteam.com/remote-neurologist-57) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-11 |
-|  | Turing | [Remote Physician - Emergency Medicine](https://turing.betterteam.com/remote-physician-emergency-medicine-42) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-11 |
-|  | Turing | [Remote Resident Medical Expert (MD/DO)](https://turing.betterteam.com/remote-resident-medical-expert-%28md-do%29-42) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-11 |
+|  | Turing | [Cardiologist](https://turing.betterteam.com/cardiologist-33) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-16 |
+|  | Turing | [Endocrinologist](https://turing.betterteam.com/endocrinologist-47) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-16 |
+|  | Turing | [Hematologist](https://turing.betterteam.com/hematologist-34) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-16 |
+|  | Turing | [Internal Medicine Specialist](https://turing.betterteam.com/internal-medicine-specialist-51) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-16 |
+| 🆕 | Turing | [Nephrologist](https://turing.betterteam.com/nephrologist-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
+|  | Turing | [Neurologist](https://turing.betterteam.com/neurologist-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
+|  | Turing | [Physician - Emergency Medicine](https://turing.betterteam.com/physician-emergency-medicine-38) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
+|  | Turing | [Resident Medical Expert (MD/DO)](https://turing.betterteam.com/resident-medical-expert-%28md-do%29-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
 |  | OpenTrain AI | [General Cardiologist Cardiovascular Imaging AI Trainer](https://www.opentrain.ai/jobs/cardiac-imaging-ai-trainer--cmwat2zaq00gj08l5j4o6z8vz/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
 |  | OpenTrain AI | [Heart Failure and Transplant Cardiologist AI Trainer](https://www.opentrain.ai/jobs/heart-failure-and-transplant-cardiology-ai-trainer--cmwauov98007x08l3sxu4liid/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
 |  | OpenTrain AI | [Interventional Cardiologist AI Trainer](https://www.opentrain.ai/jobs/interventional-cardiologist-ai-trainer--cmwauouxq007n08l331itto53/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
@@ -21,7 +21,7 @@ Updated **2026-11-15 17:52 UTC** · 40 of 53 sources searched · 10,103 postings
 |  | Prolific | [Cardiologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883924101) | $48–$200/hr | flexible | 63 listings · Remote | 2026-06-04 |
 |  | Prolific | [Ophthalmologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4884392101) | $48–$200/hr | flexible | 29 listings · Remote | 2026-06-05 |
 |  | Prolific | [Pathologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883871101) | $48–$200/hr | flexible | 66 listings · Remote | 2026-06-04 |
-|  | Turing | [Remote Dermatologist](https://turing.betterteam.com/remote-dermatologist-12) | $190–$200/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-11 |
+|  | Turing | [Dermatologist](https://turing.betterteam.com/dermatologist-14) | $190–$200/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-16 |
 |  | OpenTrain AI | [Hematologist Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwb9o6cf009208jjaxy38wvp/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | OpenTrain AI | [Hematology Physician Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
 |  | OpenTrain AI | [Hematology/Oncology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwa0pp5h007c07l8wuxpqban/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
@@ -29,6 +29,7 @@ Updated **2026-11-15 17:52 UTC** · 40 of 53 sources searched · 10,103 postings
 |  | OpenTrain AI | [Pediatric Hematology/Oncology Physician Reviewer](https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | Counsel Health | [Physician, Virtual Care (Evenings/Weekends, IMLC Required)](https://jobs.ashbyhq.com/counsel/fb46b812-ee06-4ff3-82f3-fa5de0e77203) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
 |  | Counsel Health | [Physician, Virtual Care (Part-Time, IMLC Required)](https://jobs.ashbyhq.com/counsel/f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
+| 🆕 | OpenTrain AI | [Medical MD Expert for AI Scenario Evaluation](https://www.opentrain.ai/jobs/medical-ai-scenario-design-and-evaluation-expert--cmw6nmmeq000q08jph9etp79b/) | $160/hr | CONTRACTOR | Remote (United Arab Emirates / Antigua and B… | 2026-11-07 |
 |  | Prolific | [Doctors - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4854898101) | $80–$150/hr | flexible | 45 listings · Remote | 2026-04-29 |
 |  | Prolific | [AI Research Participants - United States (Remote) — 70 roles incl. Physicians, Family Med…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5019381101) | $130+/hr | flexible | 70 listings · Remote; United States | 2026-10-29 |
 |  | Prolific | [AI Research Participants - United States — 14 roles incl. Cardiologist, Critical Care Phy…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5020499101) | $130+/hr | flexible | 28 listings · Remote; United States | 2026-10-29 |
