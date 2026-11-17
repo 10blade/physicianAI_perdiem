@@ -1,6 +1,6 @@
 # Physician AI tasks paying $100+/hr
 
-Updated **2026-11-16 21:07 UTC** · 40 of 53 sources searched · 10,011 postings scanned
+Updated **2026-11-17 19:56 UTC** · 40 of 53 sources searched · 9,556 postings scanned
 
 ## ✅ Pays $100/hr or more — 33 roles
 
@@ -10,7 +10,7 @@ Updated **2026-11-16 21:07 UTC** · 40 of 53 sources searched · 10,011 postings
 |  | Turing | [Endocrinologist](https://turing.betterteam.com/endocrinologist-47) | $200–$300/hr | CONTRACTOR | Remote (San Francisco, California, US) | 2026-11-16 |
 |  | Turing | [Hematologist](https://turing.betterteam.com/hematologist-34) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-16 |
 |  | Turing | [Internal Medicine Specialist](https://turing.betterteam.com/internal-medicine-specialist-51) | $200–$300/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-16 |
-| 🆕 | Turing | [Nephrologist](https://turing.betterteam.com/nephrologist-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
+|  | Turing | [Nephrologist](https://turing.betterteam.com/nephrologist-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
 |  | Turing | [Neurologist](https://turing.betterteam.com/neurologist-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
 |  | Turing | [Physician - Emergency Medicine](https://turing.betterteam.com/physician-emergency-medicine-38) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
 |  | Turing | [Resident Medical Expert (MD/DO)](https://turing.betterteam.com/resident-medical-expert-%28md-do%29-47) | $200–$300/hr | CONTRACTOR | Remote (Seattle, Washington, US) | 2026-11-16 |
@@ -29,20 +29,20 @@ Updated **2026-11-16 21:07 UTC** · 40 of 53 sources searched · 10,011 postings
 |  | OpenTrain AI | [Pediatric Hematology/Oncology Physician Reviewer](https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | Counsel Health | [Physician, Virtual Care (Evenings/Weekends, IMLC Required)](https://jobs.ashbyhq.com/counsel/fb46b812-ee06-4ff3-82f3-fa5de0e77203) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
 |  | Counsel Health | [Physician, Virtual Care (Part-Time, IMLC Required)](https://jobs.ashbyhq.com/counsel/f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
-| 🆕 | OpenTrain AI | [Medical MD Expert for AI Scenario Evaluation](https://www.opentrain.ai/jobs/medical-ai-scenario-design-and-evaluation-expert--cmw6nmmeq000q08jph9etp79b/) | $160/hr | CONTRACTOR | Remote (United Arab Emirates / Antigua and B… | 2026-11-07 |
+|  | OpenTrain AI | [Medical MD Expert for AI Scenario Evaluation](https://www.opentrain.ai/jobs/medical-ai-scenario-design-and-evaluation-expert--cmw6nmmeq000q08jph9etp79b/) | $160/hr | CONTRACTOR | Remote (United Arab Emirates / Antigua and B… | 2026-11-07 |
 |  | Prolific | [Doctors - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4854898101) | $80–$150/hr | flexible | 45 listings · Remote | 2026-04-29 |
 |  | Prolific | [AI Research Participants - United States (Remote) — 70 roles incl. Physicians, Family Med…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5019381101) | $130+/hr | flexible | 70 listings · Remote; United States | 2026-10-29 |
 |  | Prolific | [AI Research Participants - United States — 14 roles incl. Cardiologist, Critical Care Phy…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5020499101) | $130+/hr | flexible | 28 listings · Remote; United States | 2026-10-29 |
+| 🆕 | Prolific | [AI Training - Improving AI Trust and Safety - United States (Remote) — 16 roles incl. Fam…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5040610101) | $130+/hr | flexible | 16 listings · Remote | 2026-11-17 |
 |  | 24-MAG | [Remote \| Family Medicine Physician (MD) — $100–$120/hour](https://www.careers-page.com/24-mag/job/V676VRWR) | $100–$120/hr | OTHER | New York, United States | 2026-10-23 |
 |  | 24-MAG | [Remote \| Hospitalist Physician — $100–$120/hour](https://www.careers-page.com/24-mag/job/63839YWR) | $100–$120/hr | OTHER | New York, United States | 2026-10-23 |
 |  | Invisible / Meridial | [Medical Doctor (UK) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4687929101) | $40–$120/hr | flexible | United Kingdom | 2025-10-08 |
 |  | Invisible / Meridial | [Medical Doctor (US) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4687913101) | $40–$120/hr | flexible | United States of America | 2025-10-08 |
 |  | 24-MAG | [Remote \| Hospitalist Physician — $70–$115/hour](https://www.careers-page.com/24-mag/job/7X7X9343) | $70–$115/hr | OTHER | New York, United States | 2026-10-23 |
-|  | Toloka AI | [Licensed Physician (MD/DO) - Freelance AI Trainer](https://apply.workable.com/j/1A43FC5A37) | $100/hr | Part-time | 10 listings · Japan / South Korea / New Zeal… | 2026-11-13 |
 
 🆕 = new since the last run. Pay is copied from the posting; a role counts when the top of the posted range reaches $100/hr. ≈ marks an hourly estimate converted from a daily (÷8) or annual (÷2,080) figure.
 
-## 🟡 Physician roles with flexible hours, pay not posted — 19
+## 🟡 Physician roles with flexible hours, pay not posted — 6
 
 These match on role and schedule but the posting gives no rate. Many pay well; check before applying.
 
@@ -54,19 +54,6 @@ These match on role and schedule but the posting gives no rate. Many pay well; c
 |  | OpenTrain AI | [Medical Expert (Dermatology), AI Training](https://www.opentrain.ai/jobs/us-medical-expert-dermatology--cmwff9td6005608l5s43kqe8f/) | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
 |  | OpenTrain AI | [Radiologist, Radiology AI Response Evaluator](https://www.opentrain.ai/jobs/radiology-ai-response-evaluator--cmwc5d1ny007f07l5xkmeb0o3/) | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-11 |
 |  | Scale AI | [Medical Fellow - Human Frontier Collective](https://job-boards.greenhouse.io/scaleai/jobs/4591782005) | flexible | 2 listings · United States / United Kingdom | 2025-07-30 |
-|  | Toloka AI | [Board-Certified Physician - Non-Clinical Remote Case Review](https://apply.workable.com/j/58E16CE9F7) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
-|  | Toloka AI | [Family & Internal Medicine MD/DO - Flexible Remote Case Review](https://apply.workable.com/j/3F8940DFE2) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
-|  | Toloka AI | [Hospitalist / Internist - Medical AI Evaluation (Remote, Part-Time)](https://apply.workable.com/j/CFD18E71E5) | Part-time | United States | 2026-10-20 |
-|  | Toloka AI | [Hospitalist / Internist - Remote Case Review, Up to $100/hr](https://apply.workable.com/j/055144F90F) | Part-time | 12 listings · Ohio, United States / Columbus… | 2026-11-06 |
-|  | Toloka AI | [Internal Medicine Physician](https://apply.workable.com/j/4785CA697E) | Part-time | 12 listings · Ohio, United States / Columbus… | 2026-11-06 |
-|  | Toloka AI | [Internal Medicine Physician - Remote Clinical Case Review](https://apply.workable.com/j/A3798B056F) | Part-time | Houston, Texas, United States | 2026-10-19 |
-|  | Toloka AI | [Licensed Physician (MD/DO) - Freelance AI Trainer](https://apply.workable.com/j/03A908922D) | Part-time | 196 listings · Tennessee, United States / Na… | 2026-11-13 |
-|  | Toloka AI | [Medical AI Evaluation — 3 roles incl. Physician Reviewer (MD/DO), Physician (MD/DO), Lice…](https://apply.workable.com/j/021F3CE676) | Part-time | 394 listings · Pennsylvania, United States /… | 2026-11-13 |
-|  | Toloka AI | [Physician (MD/DO) - AI Trainer](https://apply.workable.com/j/B6CAF8DCE0) | Part-time | United States | 2026-10-09 |
-|  | Toloka AI | [Physician (MD/DO) - Put Medical AI to the Test, Remote](https://apply.workable.com/j/091EA53911) | Part-time | 196 listings · Colorado, United States / Den… | 2026-11-13 |
-|  | Toloka AI | [Physician - AI Clinical Reviewer](https://apply.workable.com/j/DEF7C71883) | Part-time | United States | 2026-11-11 |
-|  | Toloka AI | [Physician AI Tutor (MD/DO) - Clinical Case Review, Remote](https://apply.workable.com/j/158ECAC7F7) | Part-time | 12 listings · Georgia, United States / Atlan… | 2026-11-06 |
-|  | Toloka AI | [Physicians (MD/DO) - Review Clinical Cases for Medical AI, Remote, Up to $100/hr](https://apply.workable.com/j/1A20D705FF) | Part-time | Philadelphia, United States | 2026-10-19 |
 
 ## 🔎 Check these platforms directly
 
