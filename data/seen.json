@@ -9,42 +9,42 @@
   "ashby:counsel:f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f": {
     "company": "Counsel Health",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Physician, Virtual Care (Part-Time, IMLC Required)"
   },
   "ashby:counsel:fb46b812-ee06-4ff3-82f3-fa5de0e77203": {
     "company": "Counsel Health",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Physician, Virtual Care (Evenings/Weekends, IMLC Required)"
   },
   "greenhouse:agency:4687913101": {
     "company": "Invisible / Meridial",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Medical Doctor (US) - Freelance AI Trainer Project"
   },
   "greenhouse:agency:4687929101": {
     "company": "Invisible / Meridial",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Medical Doctor (UK) - Freelance AI Trainer Project"
   },
   "greenhouse:agency:4699862101": {
     "company": "Invisible / Meridial",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "pay_unlisted",
     "title": "Medical Specialist (Fluent in Arabic) - Freelance AI Trainer Project"
   },
   "greenhouse:prolificacademicltd:4854898101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Doctors - AI Training"
   },
@@ -352,14 +352,14 @@
   "greenhouse:prolificacademicltd:4883871101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Pathologists (Freelance - Remote)"
   },
   "greenhouse:prolificacademicltd:4883924101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Cardiologists (Freelance - Remote)"
   },
@@ -786,7 +786,7 @@
   "greenhouse:prolificacademicltd:4884392101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Ophthalmologists (Freelance - Remote)"
   },
@@ -1423,7 +1423,7 @@
   "greenhouse:prolificacademicltd:5019381101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "AI Research Participants - United States (Remote) — 70 roles incl. Physicians, Family Medicine Physician, Telemedicine Physician"
   },
@@ -1486,7 +1486,7 @@
   "greenhouse:prolificacademicltd:5020499101": {
     "company": "Prolific",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "AI Research Participants - United States — 14 roles incl. Cardiologist, Critical Care Physician, Cruise Ship Physician"
   },
@@ -2008,6 +2008,13 @@
     "status": "qualified",
     "title": "Vascular Surgeon - AI Research Participants - United States (Remote)"
   },
+  "greenhouse:prolificacademicltd:5040417101": {
+    "company": "Prolific",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "qualified",
+    "title": "AI Training - Improving AI Trust and Safety - United States (Remote) — 46 roles incl. Physicians, Family Medicine Physician, Telemedicine Physician"
+  },
   "greenhouse:prolificacademicltd:5040610101": {
     "company": "Prolific",
     "first_seen": "2026-11-17",
@@ -2018,7 +2025,7 @@
   "greenhouse:scaleai:4591782005": {
     "company": "Scale AI",
     "first_seen": "2026-11-04",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "pay_unlisted",
     "title": "Medical Fellow - Human Frontier Collective"
   },
@@ -2028,6 +2035,13 @@
     "last_seen": "2026-11-04",
     "status": "pay_unlisted",
     "title": "Medical Fellow - Human Frontier Collective"
+  },
+  "greenhouse:xai:5298893007": {
+    "company": "xAI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "qualified",
+    "title": "AI Tutor, Medicine - Temporary"
   },
   "page:turing.betterteam.com:https://turing.betterteam.com/cardiologist-29": {
     "company": "Turing",
@@ -2151,56 +2165,56 @@
   "page:turing.betterteam.com:turing:cardiologist": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Cardiologist"
   },
   "page:turing.betterteam.com:turing:dermatologist": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Dermatologist"
   },
   "page:turing.betterteam.com:turing:endocrinologist": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Endocrinologist"
   },
   "page:turing.betterteam.com:turing:hematologist": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Hematologist"
   },
   "page:turing.betterteam.com:turing:internalmedicinespecialist": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Internal Medicine Specialist"
   },
   "page:turing.betterteam.com:turing:nephrologist": {
     "company": "Turing",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Nephrologist"
   },
   "page:turing.betterteam.com:turing:neurologist": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Neurologist"
   },
   "page:turing.betterteam.com:turing:physicianemergencymedicine": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Physician - Emergency Medicine"
   },
@@ -2270,28 +2284,28 @@
   "page:turing.betterteam.com:turing:residentmedicalexpertmddo": {
     "company": "Turing",
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Resident Medical Expert (MD/DO)"
   },
   "page:www.careers-page.com:24mag:remotefamilymedicinephysicianmd100120hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Remote | Family Medicine Physician (MD) — $100–$120/hour"
   },
   "page:www.careers-page.com:24mag:remotehospitalistphysician100120hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Remote | Hospitalist Physician — $100–$120/hour"
   },
   "page:www.careers-page.com:24mag:remotehospitalistphysician70115hour": {
     "company": "24-MAG",
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Remote | Hospitalist Physician — $70–$115/hour"
   },
@@ -2477,6 +2491,13 @@
     "status": "pay_unlisted",
     "title": "Emergency Medicine Physician AI Evaluation"
   },
+  "page:www.opentrain.ai:opentrainai:emergencymedicinephysicianaitraining": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "Emergency Medicine Physician AI Training"
+  },
   "page:www.opentrain.ai:opentrainai:emergencymedicinephysicianmddo": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
@@ -2526,6 +2547,13 @@
     "status": "pay_unlisted",
     "title": "Family Medicine Physician AI Training Consultant"
   },
+  "page:www.opentrain.ai:opentrainai:familymedicinephysicianaitrainingconsultantenglish": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "Family Medicine Physician AI Training Consultant (English)"
+  },
   "page:www.opentrain.ai:opentrainai:gastroenterologisthepatologistaievaluationexpert": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-06",
@@ -2533,12 +2561,26 @@
     "status": "pay_unlisted",
     "title": "Gastroenterologist/Hepatologist AI Evaluation Expert"
   },
+  "page:www.opentrain.ai:opentrainai:generalcardiologistcardiacimagingaitrainer": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "qualified",
+    "title": "General Cardiologist Cardiac Imaging AI Trainer"
+  },
   "page:www.opentrain.ai:opentrainai:generalcardiologistcardiovascularimagingaitrainer": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-17",
     "status": "qualified",
     "title": "General Cardiologist Cardiovascular Imaging AI Trainer"
+  },
+  "page:www.opentrain.ai:opentrainai:heartfailureandtransplantcardiologist": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "qualified",
+    "title": "Heart Failure and Transplant Cardiologist"
   },
   "page:www.opentrain.ai:opentrainai:heartfailureandtransplantcardiologistaitrainer": {
     "company": "OpenTrain AI",
@@ -2550,7 +2592,7 @@
   "page:www.opentrain.ai:opentrainai:hematologistclinicaldocumentationaireviewer": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Hematologist Clinical Documentation AI Reviewer"
   },
@@ -2564,14 +2606,14 @@
   "page:www.opentrain.ai:opentrainai:hematologyoncologyphysicianaidocumentationreviewer": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Hematology/Oncology Physician AI Documentation Reviewer"
   },
   "page:www.opentrain.ai:opentrainai:hematologyphysicianclinicaldocumentationaireviewer": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Hematology Physician Clinical Documentation AI Reviewer"
   },
@@ -2603,6 +2645,13 @@
     "status": "qualified",
     "title": "Interventional Cardiologist AI Trainer"
   },
+  "page:www.opentrain.ai:opentrainai:laboratoryanimalpathologist": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "Laboratory Animal Pathologist"
+  },
   "page:www.opentrain.ai:opentrainai:lifesciencedomainexpertindermatology": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-05",
@@ -2616,6 +2665,13 @@
     "last_seen": "2026-11-07",
     "status": "qualified",
     "title": "Medical AI Response Evaluation Expert (Physicians)"
+  },
+  "page:www.opentrain.ai:opentrainai:medicaldoctorenglishairesponseevaluator": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "Medical Doctor (English) AI Response Evaluator"
   },
   "page:www.opentrain.ai:opentrainai:medicaldoctorsindiaforhealthcareproducttesting": {
     "company": "OpenTrain AI",
@@ -2655,9 +2711,16 @@
   "page:www.opentrain.ai:opentrainai:medicaloncologistclinicaldocumentationreviewer": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Medical Oncologist Clinical Documentation Reviewer"
+  },
+  "page:www.opentrain.ai:opentrainai:mentalhealthexpertsforaievaluation": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "Mental Health Experts for AI Evaluation"
   },
   "page:www.opentrain.ai:opentrainai:neurologistaievaluationexpert": {
     "company": "OpenTrain AI",
@@ -2683,9 +2746,16 @@
   "page:www.opentrain.ai:opentrainai:pediatrichematologyoncologyphysicianreviewer": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "status": "qualified",
     "title": "Pediatric Hematology/Oncology Physician Reviewer"
+  },
+  "page:www.opentrain.ai:opentrainai:preventivecardiologistaitrainer": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "qualified",
+    "title": "Preventive Cardiologist AI Trainer"
   },
   "page:www.opentrain.ai:opentrainai:preventivecardiologistaitrainerenglish": {
     "company": "OpenTrain AI",
@@ -2743,6 +2813,13 @@
     "status": "qualified",
     "title": "Radiation Oncologist AI Evaluation Expert"
   },
+  "page:www.opentrain.ai:opentrainai:radiologistairesponseevaluatorenglish": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "Radiologist AI Response Evaluator (English)"
+  },
   "page:www.opentrain.ai:opentrainai:radiologistradiologyairesponseevaluator": {
     "company": "OpenTrain AI",
     "first_seen": "2026-11-11",
@@ -2756,6 +2833,13 @@
     "last_seen": "2026-11-07",
     "status": "qualified",
     "title": "Speech-Language Pathologist Expert"
+  },
+  "page:www.opentrain.ai:opentrainai:usmedicalexpertdermatologyaireview": {
+    "company": "OpenTrain AI",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "status": "pay_unlisted",
+    "title": "US Medical Expert Dermatology AI Review"
   },
   "workable:toloka-ai:010AB12096": {
     "company": "Toloka AI",
