@@ -1,18 +1,8 @@
-## 0 new physician AI task(s) paying $100+/hr
+## 2 new physician AI task(s) paying $100+/hr
 
-_None._
-
-### Also new: 8 flexible physician role(s) with no posted pay
-
-|  | Company | Role | Type | Location | Posted |
-|---|---|---|---|---|---|
-| 🆕 | Prolific | [AI Trainer - Doctors - Japan](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042309101) | flexible | Remote | 2026-11-19 |
-| 🆕 | Prolific | [AI Trainer - Internal Medicine Doctor - Japan](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042313101) | flexible | Remote | 2026-11-19 |
-| 🆕 | Prolific | [AI Trainer - Internal Medicine Physicians](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042311101) | flexible | 2 listings · Remote | 2026-11-19 |
-| 🆕 | Prolific | [AI Trainer - Physicians - Japan](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042310101) | flexible | Remote | 2026-11-19 |
-| 🆕 | Prolific | [AI Trainer - Primary Care Doctors - Japan](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042315101) | flexible | Remote | 2026-11-19 |
-| 🆕 | Prolific | [AI Trainer - Primary Care Physicians - Japan](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042314101) | flexible | Remote | 2026-11-19 |
-| 🆕 | Prolific | [AI Training - Japan — 8 roles incl. Doctors, Physicians, Internal Medicine Physician](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5041607101) | flexible | 8 listings · Remote | 2026-11-19 |
-| 🆕 | Prolific | [Psychiatrist - AI Training - Indonesia](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5042465101) | flexible | Remote | 2026-11-19 |
+|  | Company | Role | Pay | Type | Location | Posted |
+|---|---|---|---|---|---|---|
+| 🆕 | OpenTrain AI | [Senior Hematologist-Oncologist (English)](https://www.opentrain.ai/jobs/hematology-oncology-clinical-documentation-ai-training-expert--cmwo1f3pa000007jzmjkz9zr7/) | $220–$250/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-19 |
+| 🆕 | OpenTrain AI | [Hematology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
 
 Full list: [results/latest.md](https://github.com/10blade/physicianAI_perdiem/blob/main/results/latest.md)
