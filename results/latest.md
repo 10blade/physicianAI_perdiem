@@ -1,8 +1,8 @@
 # Physician AI tasks paying $100+/hr
 
-Updated **2026-11-20 19:10 UTC** · 40 of 53 sources searched · 9,558 postings scanned
+Updated **2026-11-21 18:06 UTC** · 40 of 53 sources searched · 9,843 postings scanned
 
-## ✅ Pays $100/hr or more — 33 roles
+## ✅ Pays $100/hr or more — 35 roles
 
 |  | Company | Role | Pay | Type | Location | Posted |
 |---|---|---|---|---|---|---|
@@ -17,18 +17,19 @@ Updated **2026-11-20 19:10 UTC** · 40 of 53 sources searched · 9,558 postings 
 |  | OpenTrain AI | [General Cardiologist Cardiac Imaging AI Trainer](https://www.opentrain.ai/jobs/cardiac-imaging-ai-trainer--cmwat2zaq00gj08l5j4o6z8vz/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
 |  | OpenTrain AI | [Heart Failure and Transplant Cardiologist](https://www.opentrain.ai/jobs/heart-failure-and-transplant-cardiology-ai-trainer--cmwauov98007x08l3sxu4liid/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
 |  | OpenTrain AI | [Preventive Cardiologist AI Trainer](https://www.opentrain.ai/jobs/preventive-cardiology-ai-trainer--cmwav7of200i008jp9rrx87uh/) | $80–$285/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-10 |
-| 🆕 | OpenTrain AI | [Senior Hematologist-Oncologist (English)](https://www.opentrain.ai/jobs/hematology-oncology-clinical-documentation-ai-training-expert--cmwo1f3pa000007jzmjkz9zr7/) | $220–$250/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-19 |
+|  | OpenTrain AI | [Senior Hematologist-Oncologist (English)](https://www.opentrain.ai/jobs/hematology-oncology-clinical-documentation-ai-training-expert--cmwo1f3pa000007jzmjkz9zr7/) | $220–$250/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-19 |
+|  | OpenTrain AI | [Hematology/Oncology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwo0i4k6005o08l8dgnjiut9/) | $180–$220/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-19 |
 |  | Prolific | [Cardiologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883924101) | $48–$200/hr | flexible | 63 listings · Remote | 2026-06-04 |
 |  | Prolific | [Ophthalmologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4884392101) | $48–$200/hr | flexible | 29 listings · Remote | 2026-06-05 |
 |  | Prolific | [Pathologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883871101) | $48–$200/hr | flexible | 66 listings · Remote | 2026-06-04 |
 |  | Turing | [Remote Dermatologist](https://turing.betterteam.com/remote-dermatologist-15) | $190–$200/hr | CONTRACTOR | Remote (Chicago, Illinois, US) | 2026-11-19 |
+|  | OpenTrain AI | [Hematologist Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwb9o6cf009208jjaxy38wvp/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
+| 🆕 | OpenTrain AI | [Hematology Physician Clinical Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
+| 🆕 | OpenTrain AI | [Hematology/Oncology Physician Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwa0pp5h007c07l8wuxpqban/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
+|  | OpenTrain AI | [Medical Oncologist Clinical Documentation Reviewer](https://www.opentrain.ai/jobs/medical-oncology-clinical-documentation-reviewer--cmwba7j8g00b508ijm3smp868/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
+|  | OpenTrain AI | [Pediatric Hematology/Oncology Physician Reviewer](https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | Counsel Health | [Physician, Virtual Care (Evenings/Weekends, IMLC Required)](https://jobs.ashbyhq.com/counsel/fb46b812-ee06-4ff3-82f3-fa5de0e77203) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
 |  | Counsel Health | [Physician, Virtual Care (Part-Time, IMLC Required)](https://jobs.ashbyhq.com/counsel/f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
-|  | OpenTrain AI | [Hematologist Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwb9o6cf009208jjaxy38wvp/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
-| 🆕 | OpenTrain AI | [Hematology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
-|  | OpenTrain AI | [Hematology/Oncology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwa0pp5h007c07l8wuxpqban/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
-|  | OpenTrain AI | [Medical Oncologist Clinical Documentation Reviewer](https://www.opentrain.ai/jobs/medical-oncology-clinical-documentation-reviewer--cmwba7j8g00b508ijm3smp868/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
-|  | OpenTrain AI | [Pediatric Hematology/Oncology Physician Reviewer](https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | Prolific | [Doctors - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4854898101) | $80–$150/hr | flexible | 45 listings · Remote | 2026-04-29 |
 |  | Prolific | [AI Research Participants - United States (Remote) — 70 roles incl. Physicians, Family Med…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5019381101) | $130+/hr | flexible | 70 listings · Remote; United States | 2026-10-29 |
 |  | Prolific | [AI Research Participants - United States — 14 roles incl. Cardiologist, Critical Care Phy…](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/5020499101) | $130+/hr | flexible | 28 listings · Remote; United States | 2026-10-29 |
@@ -38,6 +39,7 @@ Updated **2026-11-20 19:10 UTC** · 40 of 53 sources searched · 9,558 postings 
 |  | Invisible / Meridial | [Medical Doctor (UK) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4687929101) | $40–$120/hr | flexible | United Kingdom | 2025-10-08 |
 |  | Invisible / Meridial | [Medical Doctor (US) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4687913101) | $40–$120/hr | flexible | United States of America | 2025-10-08 |
 |  | 24-MAG | [Remote \| Hospitalist Physician — $70–$115/hour](https://www.careers-page.com/24-mag/job/7X7X9343) | $70–$115/hr | OTHER | New York, United States | 2026-10-23 |
+| 🆕 | OpenTrain AI | [Medical Doctor / Physician](https://www.opentrain.ai/jobs/medical-ai-content-review-physician--cmwplroiu00hf07ifefk1ir3m/) | $110/hr | CONTRACTOR, PART TIME | Remote (Mexico) | 2026-11-20 |
 |  | xAI | [AI Tutor, Medicine - Temporary](https://job-boards.greenhouse.io/xai/jobs/5298893007) | $45–$100/hr | flexible | Remote, International | 2026-11-18 |
 
 🆕 = new since the last run. Pay is copied from the posting; a role counts when the top of the posted range reaches $100/hr. ≈ marks an hourly estimate converted from a daily (÷8) or annual (÷2,080) figure.
