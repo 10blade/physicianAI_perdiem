@@ -1,6 +1,6 @@
 # Sources searched
 
-Run of 2026-11-21 18:06 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
+Run of 2026-11-22 18:35 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
 
 | Source | Board or page | Status | Postings | Matches | Note |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Run of 2026-11-21 18:06 UTC. "Matches" counts physician postings that made the r
 | Akido Labs | greenhouse:akidolabs | ✅ ok | 34 | 0 | auto-detected |
 | Alignerr | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Ambience Healthcare | ashby:ambiencehealthcare | ✅ ok | 17 | 0 | auto-detected |
-| Anthropic | greenhouse:anthropic | ✅ ok | 635 | 0 |  |
+| Anthropic | greenhouse:anthropic | ✅ ok | 633 | 0 |  |
 | Atropos Health | ashby:atroposhealth | ✅ ok | 1 | 0 | auto-detected |
 | Centaur Labs | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Cleerly | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
@@ -30,21 +30,21 @@ Run of 2026-11-21 18:06 UTC. "Matches" counts physician postings that made the r
 | Infinitus Systems | ashby:infinitus | ✅ ok | 10 | 0 | auto-detected |
 | Invisible / Meridial | greenhouse:agency | ✅ ok | 827 | 4 |  |
 | K Health | greenhouse:khealthcareers | ✅ ok | 15 | 0 |  |
-| Labelbox | greenhouse:labelbox | ✅ ok | 12 | 0 | auto-detected |
+| Labelbox | greenhouse:labelbox | ✅ ok | 13 | 0 | auto-detected |
 | Mendel AI | smartrecruiters:mendelai | ✅ ok | 1 | 0 | auto-detected |
 | Mercor | ashby:mercor | ✅ ok | 109 | 0 | auto-detected |
 | Nabla | ashby:nabla | ✅ ok | 8 | 0 | auto-detected |
 | Navina | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Notable Health | ashby:notable | ✅ ok | 9 | 0 | auto-detected |
 | OpenAI | ashby:openai | ✅ ok | 852 | 0 |  |
-| OpenEvidence | ashby:openevidence | ✅ ok | 8 | 0 | auto-detected |
-| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 21 | 17 | 21 physician-looking links, 21 opened |
+| OpenEvidence | ashby:openevidence | ✅ ok | 7 | 0 | auto-detected |
+| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 21 | 14 | 21 physician-looking links, 21 opened |
 | Pareto AI | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | PathAI | greenhouse:pathai | ✅ ok | 15 | 0 | auto-detected |
-| Prolific | greenhouse:prolificacademicltd | ✅ ok | 4,259 | 363 |  |
+| Prolific | greenhouse:prolificacademicltd | ✅ ok | 4,265 | 363 |  |
 | Rad AI | ashby:radai | ✅ ok | 27 | 0 | auto-detected |
 | Regard | ashby:regard | ✅ ok | 3 | 0 | auto-detected |
-| Scale AI | greenhouse:scaleai | ✅ ok | 169 | 2 |  |
+| Scale AI | greenhouse:scaleai | ✅ ok | 166 | 2 |  |
 | Sepal AI | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Snorkel AI | greenhouse:snorkelai | ✅ ok | 43 | 0 | auto-detected |
 | Suki | greenhouse:suki | ✅ ok | 10 | 0 | auto-detected |
