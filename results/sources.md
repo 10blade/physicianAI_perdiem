@@ -1,6 +1,6 @@
 # Sources searched
 
-Run of 2026-11-25 20:31 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
+Run of 2026-11-26 20:19 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
 
 | Source | Board or page | Status | Postings | Matches | Note |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@ Run of 2026-11-25 20:31 UTC. "Matches" counts physician postings that made the r
 | Akido Labs | greenhouse:akidolabs | ✅ ok | 36 | 0 | auto-detected |
 | Alignerr | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Ambience Healthcare | ashby:ambiencehealthcare | ✅ ok | 19 | 0 | auto-detected |
-| Anthropic | greenhouse:anthropic | ✅ ok | 635 | 0 |  |
+| Anthropic | greenhouse:anthropic | ✅ ok | 634 | 0 |  |
 | Atropos Health | ashby:atroposhealth | ✅ ok | 1 | 0 | auto-detected |
 | Centaur Labs | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Cleerly | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
@@ -38,22 +38,22 @@ Run of 2026-11-25 20:31 UTC. "Matches" counts physician postings that made the r
 | Notable Health | ashby:notable | ✅ ok | 9 | 0 | auto-detected |
 | OpenAI | ashby:openai | ✅ ok | 876 | 0 |  |
 | OpenEvidence | ashby:openevidence | ✅ ok | 7 | 0 | auto-detected |
-| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 24 | 14 | 24 physician-looking links, 24 opened |
+| OpenTrain AI (medical jobs) | https://www.opentrain.ai/jobs/category/medical-health/ | ✅ ok | 23 | 14 | 23 physician-looking links, 23 opened |
 | Pareto AI | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | PathAI | greenhouse:pathai | ✅ ok | 19 | 0 | auto-detected |
-| Prolific | greenhouse:prolificacademicltd | ✅ ok | 4,274 | 363 |  |
+| Prolific | greenhouse:prolificacademicltd | ✅ ok | 4,273 | 363 |  |
 | Rad AI | ashby:radai | ✅ ok | 27 | 0 | auto-detected |
 | Regard | ashby:regard | ✅ ok | 3 | 0 | auto-detected |
-| Scale AI | greenhouse:scaleai | ✅ ok | 157 | 1 |  |
+| Scale AI | greenhouse:scaleai | ✅ ok | 158 | 1 |  |
 | Sepal AI | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Snorkel AI | greenhouse:snorkelai | ✅ ok | 39 | 0 | auto-detected |
 | Suki | greenhouse:suki | ✅ ok | 9 | 0 | auto-detected |
 | SuperAnnotate | lever:superannotate | ✅ ok | 3 | 0 | auto-detected |
 | Surge AI | ashby:surge-ai | ✅ ok | 36 | 0 | auto-detected |
 | Tempus | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
-| Toloka AI | workable:toloka-ai | ✅ ok | 2,055 | 0 |  |
-| Truveta | greenhouse:truveta | ✅ ok | 35 | 0 | auto-detected |
+| Toloka AI | workable:toloka-ai | ✅ ok | 2,058 | 0 |  |
+| Truveta | greenhouse:truveta | ✅ ok | 34 | 0 | auto-detected |
 | Turing | greenhouse:turing | ✅ ok | 31 | 0 | auto-detected |
 | Turing (careers page) | https://turing.betterteam.com/ | ✅ ok | 2 | 0 | 2 physician-looking links, 2 opened |
 | Viz.ai | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
-| xAI | greenhouse:xai | ✅ ok | 297 | 1 |  |
+| xAI | greenhouse:xai | ✅ ok | 300 | 1 |  |

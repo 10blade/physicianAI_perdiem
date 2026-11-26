@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-25T20:31:28Z",
+  "updated": "2026-11-26T20:19:12Z",
   "min_hourly_usd": 100.0,
   "pay_rule": "top",
   "partial_run": false,
   "counts": {
     "qualified": 26,
     "pay_unlisted": 13,
-    "new_qualified": 2,
+    "new_qualified": 1,
     "new_pay_unlisted": 0,
     "sources_ok": 40,
     "sources_failed": 0,
-    "postings_scanned": 9850
+    "postings_scanned": 9853
   },
   "jobs": [
     {
@@ -110,7 +110,7 @@
       "remote": true,
       "posted": "2026-11-25",
       "first_seen": "2026-11-25",
-      "new": true,
+      "new": false,
       "category": "AI expert platform",
       "source": "page:www.opentrain.ai",
       "via": "",
@@ -354,7 +354,7 @@
       "remote": true,
       "posted": "2026-11-25",
       "first_seen": "2026-11-25",
-      "new": true,
+      "new": false,
       "category": "AI expert platform",
       "source": "page:www.opentrain.ai",
       "via": "",
@@ -644,33 +644,6 @@
       ]
     },
     {
-      "company": "OpenTrain AI",
-      "title": "Psychiatrist AI Documentation Evaluation Expert",
-      "url": "https://www.opentrain.ai/jobs/psychiatric-documentation-ai-evaluation-expert--cmwtfy0pl004t08lbmhs1lzf7/",
-      "status": "qualified",
-      "pay": "$80–$120/hr",
-      "pay_min_hourly": 80.0,
-      "pay_max_hourly": 120.0,
-      "pay_basis": "hour",
-      "pay_quote": "80–120 USD per hour; $80 to $120 per hour",
-      "employment_type": "CONTRACTOR, PART_TIME",
-      "location": "Remote (United States)",
-      "listings": 1,
-      "remote": true,
-      "posted": "2026-11-23",
-      "first_seen": "2026-11-24",
-      "new": false,
-      "category": "AI expert platform",
-      "source": "page:www.opentrain.ai",
-      "via": "",
-      "physician_terms": [
-        "Psychiatrist",
-        "medical license",
-        "residency",
-        "Psychiatry"
-      ]
-    },
-    {
       "company": "24-MAG",
       "title": "Remote | Hospitalist Physician — $70–$115/hour",
       "url": "https://www.careers-page.com/24-mag/job/7X7X9343",
@@ -696,6 +669,33 @@
         "Physicians",
         "MD",
         "MD or DO"
+      ]
+    },
+    {
+      "company": "OpenTrain AI",
+      "title": "Psychiatrist Psychiatric Documentation AI Evaluation Expert",
+      "url": "https://www.opentrain.ai/jobs/psychiatric-documentation-ai-evaluation-expert--cmwtfy0pl004t08lbmhs1lzf7/",
+      "status": "qualified",
+      "pay": "$80–$100/hr",
+      "pay_min_hourly": 80.0,
+      "pay_max_hourly": 100.0,
+      "pay_basis": "hour",
+      "pay_quote": "80–100 USD per hour; $80 to $100 per hour",
+      "employment_type": "CONTRACTOR, PART_TIME",
+      "location": "Remote (United States)",
+      "listings": 1,
+      "remote": true,
+      "posted": "2026-11-23",
+      "first_seen": "2026-11-26",
+      "new": true,
+      "category": "AI expert platform",
+      "source": "page:www.opentrain.ai",
+      "via": "",
+      "physician_terms": [
+        "Psychiatrist",
+        "medical license",
+        "residency",
+        "Psychiatry"
       ]
     },
     {
