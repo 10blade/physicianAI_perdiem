@@ -1,13 +1,13 @@
 # Sources searched
 
-Run of 2026-11-26 20:19 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
+Run of 2026-11-27 20:04 UTC. "Matches" counts physician postings that made the report (before repeats across sources and locations are merged).
 
 | Source | Board or page | Status | Postings | Matches | Note |
 |---|---|---|---|---|---|
 | 24-MAG (careers page) | https://www.careers-page.com/24-mag | ✅ ok | 3 | 3 | 3 physician-looking links, 3 opened |
 | Abridge | ashby:abridge | ✅ ok | 34 | 0 | auto-detected |
 | AfterQuery | ashby:afterquery | ✅ ok | 40 | 0 | auto-detected |
-| Akido Labs | greenhouse:akidolabs | ✅ ok | 36 | 0 | auto-detected |
+| Akido Labs | greenhouse:akidolabs | ✅ ok | 37 | 0 | auto-detected |
 | Alignerr | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Ambience Healthcare | ashby:ambiencehealthcare | ✅ ok | 19 | 0 | auto-detected |
 | Anthropic | greenhouse:anthropic | ✅ ok | 634 | 0 |  |
@@ -32,8 +32,8 @@ Run of 2026-11-26 20:19 UTC. "Matches" counts physician postings that made the r
 | K Health | greenhouse:khealthcareers | ✅ ok | 15 | 0 |  |
 | Labelbox | greenhouse:labelbox | ✅ ok | 13 | 0 | auto-detected |
 | Mendel AI | smartrecruiters:mendelai | ✅ ok | 1 | 0 | auto-detected |
-| Mercor | ashby:mercor | ✅ ok | 108 | 0 | auto-detected |
-| Nabla | ashby:nabla | ✅ ok | 8 | 0 | auto-detected |
+| Mercor | ashby:mercor | ✅ ok | 109 | 0 | auto-detected |
+| Nabla | ashby:nabla | ✅ ok | 11 | 0 | auto-detected |
 | Navina | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
 | Notable Health | ashby:notable | ✅ ok | 9 | 0 | auto-detected |
 | OpenAI | ashby:openai | ✅ ok | 876 | 0 |  |
@@ -51,7 +51,7 @@ Run of 2026-11-26 20:19 UTC. "Matches" counts physician postings that made the r
 | SuperAnnotate | lever:superannotate | ✅ ok | 3 | 0 | auto-detected |
 | Surge AI | ashby:surge-ai | ✅ ok | 36 | 0 | auto-detected |
 | Tempus | — | ➖ no public board | 0 | 0 | no public job board found (checked 2026-11-18) |
-| Toloka AI | workable:toloka-ai | ✅ ok | 2,058 | 0 |  |
+| Toloka AI | workable:toloka-ai | ✅ ok | 2,132 | 0 |  |
 | Truveta | greenhouse:truveta | ✅ ok | 34 | 0 | auto-detected |
 | Turing | greenhouse:turing | ✅ ok | 31 | 0 | auto-detected |
 | Turing (careers page) | https://turing.betterteam.com/ | ✅ ok | 2 | 0 | 2 physician-looking links, 2 opened |

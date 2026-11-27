@@ -1,6 +1,6 @@
 # Physician AI tasks paying $100+/hr
 
-Updated **2026-11-26 20:19 UTC** · 40 of 53 sources searched · 9,853 postings scanned
+Updated **2026-11-27 20:04 UTC** · 40 of 53 sources searched · 9,932 postings scanned
 
 ## ✅ Pays $100/hr or more — 26 roles
 
@@ -30,7 +30,7 @@ Updated **2026-11-26 20:19 UTC** · 40 of 53 sources searched · 9,853 postings 
 |  | Invisible / Meridial | [Medical Doctor (UK) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4687929101) | $40–$120/hr | flexible | United Kingdom | 2025-10-08 |
 |  | Invisible / Meridial | [Medical Doctor (US) - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4687913101) | $40–$120/hr | flexible | United States of America | 2025-10-08 |
 |  | 24-MAG | [Remote \| Hospitalist Physician — $70–$115/hour](https://www.careers-page.com/24-mag/job/7X7X9343) | $70–$115/hr | OTHER | New York, United States | 2026-10-23 |
-| 🆕 | OpenTrain AI | [Psychiatrist Psychiatric Documentation AI Evaluation Expert](https://www.opentrain.ai/jobs/psychiatric-documentation-ai-evaluation-expert--cmwtfy0pl004t08lbmhs1lzf7/) | $80–$100/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-23 |
+|  | OpenTrain AI | [Psychiatrist Psychiatric Documentation AI Evaluation Expert](https://www.opentrain.ai/jobs/psychiatric-documentation-ai-evaluation-expert--cmwtfy0pl004t08lbmhs1lzf7/) | $80–$100/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-23 |
 |  | xAI | [AI Tutor, Medicine - Temporary](https://job-boards.greenhouse.io/xai/jobs/5298893007) | $45–$100/hr | flexible | Remote, International | 2026-11-18 |
 
 🆕 = new since the last run. Pay is copied from the posting; a role counts when the top of the posted range reaches $100/hr. ≈ marks an hourly estimate converted from a daily (÷8) or annual (÷2,080) figure.

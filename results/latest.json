@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-26T20:19:12Z",
+  "updated": "2026-11-27T20:04:34Z",
   "min_hourly_usd": 100.0,
   "pay_rule": "top",
   "partial_run": false,
   "counts": {
     "qualified": 26,
     "pay_unlisted": 13,
-    "new_qualified": 1,
+    "new_qualified": 0,
     "new_pay_unlisted": 0,
     "sources_ok": 40,
     "sources_failed": 0,
-    "postings_scanned": 9853
+    "postings_scanned": 9932
   },
   "jobs": [
     {
@@ -687,7 +687,7 @@
       "remote": true,
       "posted": "2026-11-23",
       "first_seen": "2026-11-26",
-      "new": true,
+      "new": false,
       "category": "AI expert platform",
       "source": "page:www.opentrain.ai",
       "via": "",
