@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-27T20:04:34Z",
+  "updated": "2026-11-28T19:00:10Z",
   "min_hourly_usd": 100.0,
   "pay_rule": "top",
   "partial_run": false,
   "counts": {
-    "qualified": 26,
+    "qualified": 27,
     "pay_unlisted": 13,
     "new_qualified": 0,
     "new_pay_unlisted": 0,
     "sources_ok": 40,
     "sources_failed": 0,
-    "postings_scanned": 9932
+    "postings_scanned": 10570
   },
   "jobs": [
     {
@@ -71,31 +71,6 @@
     },
     {
       "company": "OpenTrain AI",
-      "title": "Senior Hematologist-Oncologist (English)",
-      "url": "https://www.opentrain.ai/jobs/hematology-oncology-clinical-documentation-ai-training-expert--cmwo1f3pa000007jzmjkz9zr7/",
-      "status": "qualified",
-      "pay": "$220–$250/hr",
-      "pay_min_hourly": 220.0,
-      "pay_max_hourly": 250.0,
-      "pay_basis": "hour",
-      "pay_quote": "220–250 USD per hour; $220 to $250 per hour",
-      "employment_type": "CONTRACTOR, PART_TIME",
-      "location": "Remote (United Arab Emirates / Argentina / Austria / Bangladesh / Belgium / Bahrain / Brazil / Canada / Switzerland / Chile / Colombia / Germany / Denmark / Algeria / Egypt / Spain / France / United Kingdom / Ghana / Greece / Indonesia / India / Italy / Jordan / Japan / Kenya / Kyrgyzstan / Kuwait / Kazakhstan / Lebanon / Sri Lanka / Morocco / Mexico / Malaysia / Nigeria / Netherlands / Oman / Peru / Philippines / Pakistan / Palestine / Portugal / Qatar / Saudi Arabia / Singapore / Thailand / Tunisia / Taiwan / United States / Uzbekistan / Vietnam / South Africa)",
-      "listings": 1,
-      "remote": true,
-      "posted": "2026-11-19",
-      "first_seen": "2026-11-20",
-      "new": false,
-      "category": "AI expert platform",
-      "source": "page:www.opentrain.ai",
-      "via": "",
-      "physician_terms": [
-        "Hematologist",
-        "hematology"
-      ]
-    },
-    {
-      "company": "OpenTrain AI",
       "title": "Dermatologist Dermatology AI Evaluation Expert",
       "url": "https://www.opentrain.ai/jobs/dermatology-ai-evaluation-expert--cmwvigxij001j08jyqgfjpath/",
       "status": "qualified",
@@ -121,35 +96,6 @@
         "residency",
         "MD",
         "dermatology"
-      ]
-    },
-    {
-      "company": "OpenTrain AI",
-      "title": "Hematology/Oncology Physician AI Documentation Reviewer",
-      "url": "https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwo0i4k6005o08l8dgnjiut9/",
-      "status": "qualified",
-      "pay": "$180–$220/hr",
-      "pay_min_hourly": 180.0,
-      "pay_max_hourly": 220.0,
-      "pay_basis": "hour",
-      "pay_quote": "180–220 USD per hour; $180 to $220 per hour",
-      "employment_type": "CONTRACTOR, PART_TIME",
-      "location": "Remote (United States)",
-      "listings": 1,
-      "remote": true,
-      "posted": "2026-11-19",
-      "first_seen": "2026-11-10",
-      "new": false,
-      "category": "AI expert platform",
-      "source": "page:www.opentrain.ai",
-      "via": "",
-      "physician_terms": [
-        "Physician",
-        "Hematology",
-        "medical degree",
-        "MD",
-        "hematology",
-        "clinical practice"
       ]
     },
     {
@@ -254,6 +200,35 @@
     },
     {
       "company": "OpenTrain AI",
+      "title": "Hematologist Clinical Documentation AI Reviewer",
+      "url": "https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwb9o6cf009208jjaxy38wvp/",
+      "status": "qualified",
+      "pay": "$150–$180/hr",
+      "pay_min_hourly": 150.0,
+      "pay_max_hourly": 180.0,
+      "pay_basis": "hour",
+      "pay_quote": "150–180 USD per hour; $150 to $180 per hour",
+      "employment_type": "CONTRACTOR, PART_TIME",
+      "location": "Remote (United States)",
+      "listings": 1,
+      "remote": true,
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "new": false,
+      "category": "AI expert platform",
+      "source": "page:www.opentrain.ai",
+      "via": "",
+      "physician_terms": [
+        "Hematologist",
+        "Clinical",
+        "medical degree",
+        "MD",
+        "hematology",
+        "patient care"
+      ]
+    },
+    {
+      "company": "OpenTrain AI",
       "title": "Hematology Physician AI Reviewer",
       "url": "https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/",
       "status": "qualified",
@@ -278,6 +253,64 @@
         "medical license",
         "hematology",
         "clinical experience"
+      ]
+    },
+    {
+      "company": "OpenTrain AI",
+      "title": "Medical Oncologist Clinical Documentation Reviewer",
+      "url": "https://www.opentrain.ai/jobs/medical-oncology-clinical-documentation-reviewer--cmwba7j8g00b508ijm3smp868/",
+      "status": "qualified",
+      "pay": "$150–$180/hr",
+      "pay_min_hourly": 150.0,
+      "pay_max_hourly": 180.0,
+      "pay_basis": "hour",
+      "pay_quote": "150–180 USD per hour; $150 to $180 per hour",
+      "employment_type": "CONTRACTOR, PART_TIME",
+      "location": "Remote (United States)",
+      "listings": 1,
+      "remote": true,
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "new": false,
+      "category": "AI expert platform",
+      "source": "page:www.opentrain.ai",
+      "via": "",
+      "physician_terms": [
+        "Oncologist",
+        "Medical",
+        "medical degree",
+        "MD",
+        "oncology",
+        "patient care"
+      ]
+    },
+    {
+      "company": "OpenTrain AI",
+      "title": "Pediatric Hematology/Oncology Physician Reviewer",
+      "url": "https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/",
+      "status": "qualified",
+      "pay": "$150–$180/hr",
+      "pay_min_hourly": 150.0,
+      "pay_max_hourly": 180.0,
+      "pay_basis": "hour",
+      "pay_quote": "150–180 USD per hour; $150 to $180 per hour",
+      "employment_type": "CONTRACTOR, PART_TIME",
+      "location": "Remote (United States)",
+      "listings": 1,
+      "remote": true,
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "new": false,
+      "category": "AI expert platform",
+      "source": "page:www.opentrain.ai",
+      "via": "",
+      "physician_terms": [
+        "Physician",
+        "Hematology",
+        "medical degree",
+        "MD",
+        "hematology",
+        "patient care"
       ]
     },
     {

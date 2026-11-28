@@ -1,21 +1,22 @@
 # Physician AI tasks paying $100+/hr
 
-Updated **2026-11-27 20:04 UTC** · 40 of 53 sources searched · 9,932 postings scanned
+Updated **2026-11-28 19:00 UTC** · 40 of 53 sources searched · 10,570 postings scanned
 
-## ✅ Pays $100/hr or more — 26 roles
+## ✅ Pays $100/hr or more — 27 roles
 
 |  | Company | Role | Pay | Type | Location | Posted |
 |---|---|---|---|---|---|---|
 |  | OpenTrain AI | [Gastroenterologist AI Model Evaluator](https://www.opentrain.ai/jobs/gastroenterology-ai-model-evaluator--cmwtwlfjc001808l01wqh7l21/) | up to $300/hr | CONTRACTOR | Remote (United States) | 2026-11-23 |
 |  | OpenTrain AI | [General Surgeon AI Evaluation Expert](https://www.opentrain.ai/jobs/general-surgery-ai-evaluation-expert--cmwtwlfnb001a08l0rmw694h0/) | up to $250/hr | CONTRACTOR | Remote (United States) | 2026-11-23 |
-|  | OpenTrain AI | [Senior Hematologist-Oncologist (English)](https://www.opentrain.ai/jobs/hematology-oncology-clinical-documentation-ai-training-expert--cmwo1f3pa000007jzmjkz9zr7/) | $220–$250/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-19 |
 |  | OpenTrain AI | [Dermatologist Dermatology AI Evaluation Expert](https://www.opentrain.ai/jobs/dermatology-ai-evaluation-expert--cmwvigxij001j08jyqgfjpath/) | up to $225/hr | CONTRACTOR | Remote (United States) | 2026-11-25 |
-|  | OpenTrain AI | [Hematology/Oncology Physician AI Documentation Reviewer](https://www.opentrain.ai/jobs/hematology-oncology-physician-ai-documentation-reviewer--cmwo0i4k6005o08l8dgnjiut9/) | $180–$220/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-19 |
 |  | OpenTrain AI | [Pathologist AI Evaluation Expert](https://www.opentrain.ai/jobs/pathology-ai-evaluation-expert--cmwtwlfdq001608l0xv9yw8xo/) | up to $200/hr | CONTRACTOR | Remote (United States) | 2026-11-23 |
 |  | Prolific | [Cardiologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883924101) | $48–$200/hr | flexible | 63 listings · Remote | 2026-06-04 |
 |  | Prolific | [Ophthalmologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4884392101) | $48–$200/hr | flexible | 29 listings · Remote | 2026-06-05 |
 |  | Prolific | [Pathologists (Freelance - Remote)](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4883871101) | $48–$200/hr | flexible | 66 listings · Remote | 2026-06-04 |
+|  | OpenTrain AI | [Hematologist Clinical Documentation AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwb9o6cf009208jjaxy38wvp/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | OpenTrain AI | [Hematology Physician AI Reviewer](https://www.opentrain.ai/jobs/hematology-clinical-documentation-ai-reviewer--cmwfcl0ks003n08l2kt5zch10/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-13 |
+|  | OpenTrain AI | [Medical Oncologist Clinical Documentation Reviewer](https://www.opentrain.ai/jobs/medical-oncology-clinical-documentation-reviewer--cmwba7j8g00b508ijm3smp868/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
+|  | OpenTrain AI | [Pediatric Hematology/Oncology Physician Reviewer](https://www.opentrain.ai/jobs/pediatric-hematology-oncology-clinical-documentation-reviewer--cmwb9o6po009c08jjez53nfwd/) | $150–$180/hr | CONTRACTOR, PART TIME | Remote (United States) | 2026-11-10 |
 |  | Counsel Health | [Physician, Virtual Care (Evenings/Weekends, IMLC Required)](https://jobs.ashbyhq.com/counsel/fb46b812-ee06-4ff3-82f3-fa5de0e77203) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
 |  | Counsel Health | [Physician, Virtual Care (Part-Time, IMLC Required)](https://jobs.ashbyhq.com/counsel/f3cbda4f-5db9-44e0-b8d2-b32200ffaf1f) | $125–$170/hr | Contract | Remote - US | 2026-05-13 |
 |  | OpenTrain AI | [Radiation Oncologist AI Data Review Expert](https://www.opentrain.ai/jobs/radiation-oncology-ai-data-review-expert--cmwwjxt0p000a02p6vnh8biid/) | $100–$150/hr | CONTRACTOR, PART TIME | Remote (United Arab Emirates / Argentina / A… | 2026-11-25 |
